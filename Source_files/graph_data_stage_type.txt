@@ -1,0 +1,10 @@
+group_type,stage,nodes,edges,diameter,density,av_path_length
+Theme,Start,6325,269885,9,0.013,3.813
+Theme,Mid,8309,774841,11,0.023,3.472
+Theme,End,10542,3522351,10,0.063,2.97
+WG,Start,303,1894,4,0.041,2.022
+WG,Mid,322,2432,5,0.047,2.481
+WG,End,286,1609,6,0.039,2.581
+Other,Start,56,365,1,0.237,1
+Other,Mid,66,351,2,0.164,1.397
+Other,End,85,387,2,0.108,1.467

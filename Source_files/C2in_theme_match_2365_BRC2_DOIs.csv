@@ -1,0 +1,2366 @@
+ID,FinalDOI,Themes
+1,10.1002/mrm.24260,Cardiovascular
+2,10.1073/pnas.1117412109,Cardiovascular
+3,10.1016/j.jcmg.2011.10.007,Cardiovascular
+4,10.1007/s00702-011-0732-4,Dementia and Cerebrovascular disease
+5,10.1080/13803395.2012.672966,Dementia and Cerebrovascular disease
+6,10.1371/journal.pone.0034541,Dementia and Cerebrovascular disease
+7,10.1038/ng.2204,Genomic Medicine
+8,10.1016/j.fertnstert.2012.01.106,Genomic Medicine
+9,10.1111/j.1365-2559.2011.04138.x,Cancer
+10,10.2967/jnumed.111.096685,Pathology and Bioresources
+11,10.1016/j.yneu.2012.05.040,Dementia and Cerebrovascular disease
+12,10.4161/auto.18935,Immunity and Inflammation
+13,10.1136/jnnp-2011-301506,Immunity and Inflammation
+14,10.1111/j.1365-2230.2011.04227.x,Immunity and Inflammation
+15,10.1093/infdis/jis012,Vaccines
+16,10.1097/inf.0b013e31824a9c37,Vaccines
+17,10.1111/j.1463-1326.2012.01576.x,Dementia and Cerebrovascular disease
+18,10.1007/s11517-012-0863-2,Functional Neurosciences and Imaging
+19,10.1097/WNR.0b013e3283525b39,Functional Neurosciences and Imaging
+20,10.1055/s-0032-1313908,Genomic Medicine
+21,10.1038/ki.2011.413,Diabetes
+22,10.1111/j.1365-2249.2012.04561.x,Immunity and Inflammation
+23,10.1016/j.jinf.2011.11.014,Infection
+24,10.3727/096368912x636975,Dementia and Cerebrovascular disease
+25,10.12968/pnur.2012.23.4.183,Vaccines
+26,10.1182/blood-2011-09-377044,Blood
+27,10.1126/science.1219179,Blood
+28,10.1016/j.jconrel.2011.12.026,Vaccines
+29,10.4049/jimmunol.1101106,Vaccines
+30,10.1136/archdischild-2012-301885.56,Vaccines
+31,10.1016/j.neurobiolaging.2011.05.018,Dementia and Cerebrovascular disease
+32,10.1161/CIRCIMAGING.111.971804,Cardiovascular
+33,10.1016/j.jacc.2012.01.055,Cardiovascular
+35,10.1093/infdis/jis212,Vaccines
+36,10.1016/j.clon.2011.07.012,Cancer
+37,10.1111/j.1365-2249.2012.04566.x,Immunity and Inflammation
+38,10.1016/j.vaccine.2012.04.063,Vaccines
+39,10.1093/brain/aws039,Functional Neurosciences and Imaging
+40,10.1200/jco.2011.35.9695,Genomic Medicine
+41,10.1523/jneurosci.2543-11.2012,Functional Neurosciences and Imaging
+42,10.1038/ng.2263,Genomic Medicine
+43,10.1038/bjc.2012.165,Cancer
+44,10.1371/journal.ppat.1002656,Immunity and Inflammation
+45,10.1016/j.media.2011.12.004,Cardiovascular
+46,10.1038/ng.2274,Cardiovascular
+47,10.4049/jimmunol.1102711,Immunity and Inflammation
+48,10.1161/circulationaha.111.068619,Cardiovascular
+49,10.1002/wnan.1164,Cardiovascular
+50,10.1517/14728222.2012.674516,Cancer
+51,10.1016/j.cca.2012.02.005,Dementia and Cerebrovascular disease
+52,10.1093/ehjci/jes016,Cardiovascular
+53,10.1016/s0140-6736(12)60768-5,Cardiovascular
+54,10.1159/000338905,Dementia and Cerebrovascular disease
+55,10.1186/1532-429x-14-42,Translational Physiology
+56,10.3233/jad-2012-120505,Dementia and Cerebrovascular disease
+57,10.1371/journal.pone.0038434,Vaccines
+58,10.2337/dc11-1243,Dementia and Cerebrovascular disease
+59,10.2337/db11-1810,"Diabetes, Pathology and Bioresources"
+60,10.1002/path.4004,Genomic Medicine
+61,10.1093/jac/dks082,Infection
+62,10.1016/j.atherosclerosis.2012.03.036,"Cardiovascular,Translational Physiology"
+63,10.4161/hv.19712,Vaccines
+64,10.1007/s00221-012-3107-7,Functional Neurosciences and Imaging
+65,10.1097/inf.0b013e318255e443,Vaccines
+66,10.1097/wnr.0b013e32835462f6,Functional Neurosciences and Imaging
+67,10.1371/journal.pone.0039677,Dementia and Cerebrovascular Disease
+68,10.1007/s00415-011-6299-z,Functional Neurosciences and Imaging
+69,10.1136/jnnp-2011-301237,Immunity and Inflammation
+70,10.1016/j.radonc.2012.03.009,Cancer
+71,10.1093/infdis/jis291,Immunity and Inflammation
+72,10.1371/journal.pone.0037920,immunity and Inflammation
+73,10.1136/bmjopen-2012-001124,Infection
+74,10.1186/1471-2377-12-33,Dementia and Cerebrovascular disease
+75,10.3324/haematol.2012.065854,Blood
+76,10.1186/1475-2875-11-201,Blood
+77,10.1002/cpp.1800,Cognitive Health
+78,10.4293/108680812X13462882735935,Cardiovascular
+79,10.1093/eurheartj/ehs089,Cardiovascular
+80,10.2337/dc11-2420,Dementia and Cerebrovascular disease
+81,10.1371/journal.pone.0042388,Vaccines
+82,10.1371/journal.pone.0040962,Dementia and Cerebrovascular disease
+83,10.1093/cid/cis327,Vaccines
+84,10.1097/pas.0b013e318254e80e,"Cancer, Pathology and Bioresources"
+85,10.1002/ana.23571,Functional Neurosciences and Imaging
+86,10.1038/ng.2293,Genomic Medicine
+87,10.1038/leu.2012.13,"Blood, Genomic Medicine"
+88,10.1097/hjh.0b013e328352e121,Dementia and Cerebrovascular disease
+89,10.1016/j.tmaid.2012.03.008,Vaccines
+90,10.1371/journal.pone.0040385,Vaccines
+91,10.1523/jneurosci.0275-12.2012,Functional Neurosciences and Imaging
+92,10.3389/fnint.2012.00047,Functional Neurosciences and Imaging
+93,10.1111/j.1365-2559.2012.04179.x,Blood
+94,10.1016/j.ypat.2012.11.032,Cancer
+95,10.1530/eje-12-0167,Cancer
+96,10.1158/0008-5472.can-12-1052,Genomic Medicine
+97,10.1111/j.1365-2249.2012.04588.x,Immunity and Inflammation
+98,10.1056/nejmx120009,Vaccines
+99,10.1186/1471-2334-12-164,Vaccines
+100,10.1002/mrm.23242,Cardiovascular
+101,10.1037/a0024992,Cognitive Health
+102,10.5665/sleep.2006,Immunity and Inflammation
+103,10.1016/s0140-6736(12)60312-2,Cardiovascular
+104,10.1128/mcb.06160-11,Genomic Medicine
+105,10.1210/jc.2012-1111,Pathology and Bioresources
+106,10.1111/j.1365-2125.2012.04200.x,Diabetes
+107,10.1097/mol.0b013e3283544956,Diabetes
+108,10.1097/mol.0b013e328355ee5e,Cardiovascular
+109,10.1016/j.siny.2012.02.010,Blood
+110,10.1093/humrep/des201,Genomic Medicine
+111,10.1111/j.1365-3148.2012.01149.x,Blood
+112,10.1093/cid/cis356,Infection
+113,10.1093/cid/cis499,Immunity and Inflammation
+114,10.1007/s00335-012-9398-y,"Blood, Cardiovascular"
+115,10.1016/j.expneurol.2012.04.024,Functional Neurosciences and Imaging
+116,10.1167/iovs.12-10037,Other BRC Funded Work
+117,10.1111/j.1752-8062.2011.00393.x,Vaccines
+118,10.1038/mt.2012.25,Vaccines
+119,10.1136/archdischild-2012-301873,Vaccines
+120,10.1523/jneurosci.0767-12.2012,Functional Neurosciences and Imaging
+121,10.1016/j.neuroimage.2012.08.068,Functional Neurosciences and Imaging
+122,10.1111/j.1749-6632.2012.06650.x,Functional Neurosciences and Imaging
+123,10.1093/humrep/des170,Genomic Medicine
+124,10.1016/j.fertnstert.2012.05.002,Genomic Medicine
+125,10.1371/journal.pone.0042382,Genomic Medicine
+126,10.1016/j.jacc.2012.01.078,Cardiovascular
+127,10.1016/s1470-2045(12)70355-8,Other BRC Funded Work
+128,10.1016/j.vaccine.2012.04.088,Vaccines
+129,10.1093/infdis/jis379,Vaccines
+130,10.4161/viru.21189,Infection
+131,10.1056/nejmoa1111160,Immunity and Inflammation
+132,10.1016/j.vaccine.2012.07.032,Vaccines
+133,10.1038/ng.2385,Cardiovascular
+134,10.1002/mrm.24474,Cardiovascular
+135,10.1097/opx.0b013e318264e85a,Other BRC Funded Work
+136,10.1016/j.jcmg.2012.02.016,Translational Physiology
+137,10.1007/s00330-012-2459-5,Translational Physiology
+138,10.1371/journal.pone.0044943,Vaccines
+139,10.1016/j.ejca.2013.04.015,Cancer
+140,10.1016/s0140-6736(13)60453-5,Diabetes
+141,10.1038/nrg3226,Immunity and Inflammation
+142,10.1371/journal.ppat.1002874,Immunity and Inflammation
+143,10.4049/jimmunol.1200451,Vaccines
+144,10.1159/000334090,Translational Physiology
+145,10.1093/brain/aws183,Functional Neurosciences and Imaging
+146,10.1093/humrep/des219,Genomic Medicine
+147,10.1016/j.ejca.2012.03.003,Cancer
+148,10.1158/1078-0432.ccr-12-0868,Cancer
+149,10.1002/mrm.23311,Cardiovascular
+150,10.1161/circulationaha.111.083600,Cardiovascular
+151,10.1097/01.uc.0000428883.72053.4e,Cardiovascular
+152,10.1097/01.qai.0000429258.85522.91,Immunity and Inflammation
+153,10.1038/nri3277,Immunity and Inflammation
+154,10.1016/j.jprot.2012.06.009,Blood
+155,10.1212/wnl.0b013e31826b951e,Dementia and Cerebrovascular disease
+156,10.1016/j.jvs.2012.11.047,Immunity and Inflammation
+157,10.1038/leu.2012.82,Blood
+158,10.1038/ijo.2012.170,Cardiovascular
+159,10.1093/jac/dks408,Immunity and Inflammation
+160,10.1016/j.neuroimage.2012.10.049,Cardiovascular
+161,10.1161/circimaging.112.976738,Translational Physiology
+162,10.1371/journal.pone.0048322,Vaccines
+163,10.1371/journal.pone.0047531,Vaccines
+164,10.1073/pnas.1120201109,Functional Neurosciences and Imaging
+165,10.1016/j.clinph.2012.07.029,Functional Neurosciences and Imaging
+166,10.1097/inf.0b013e318262528c,Vaccines
+167,10.1136/jclinpath-2012-200923,Surgical Innovation and Evaluation 
+168,10.1002/ajmg.a.35558,Genomic Medicine
+169,10.1017/s0963180112000242,Ethics
+170,10.1007/s10072-011-0874-z,Dementia and Cerebrovascular disease
+171,10.1161/strokeaha.112.655837,Dementia and Cerebrovascular disease
+172,10.1111/j.1365-2265.2012.04483.x,Dementia and Cerebrovascular disease
+173,10.1016/j.cmpb.2012.02.001,Biomedical Informatics and Technology
+174,10.1038/ng.2408,Genomic Medicine
+175,10.1371/journal.pgen.1003025,Genomic Medicine
+176,10.1016/j.ejca.2012.06.013,Cancer
+177,10.1038/bjc.2012.398,Cancer
+178,10.1259/bjr/56737365,"Cancer, Surgical Innovation and Evaluation "
+179,10.1210/jc.2012-2303,Genomic Medicine
+180,10.1016/j.ejso.2012.04.011,Cancer
+181,10.1136/jclinpath-2012-200958,Cancer
+182,10.1016/j.ijcard.2012.08.049,Cardiovascular
+183,10.1002/art.34538,Immunity and Inflammation
+184,10.1016/j.neuroimage.2011.09.010,Cardiovascular
+185,10.1038/nature11401,Cardiovascular
+186,10.1523/jneurosci.2200-12.2012,Cognitive Health
+187,10.1371/journal.pone.0046256,Cardiovascular
+188,10.1093/eurheartj/ehs341,Cardiovascular
+189,10.1155/2012/948218,Genomic Medicine
+190,10.1521/pedi.2012.26.5.775,Cognitive Health
+191,10.1016/j.cmet.2012.08.010,Dementia and Cerebrovascular disease
+192,10.1016/j.ajhg.2012.08.032,Cardiovascular
+193,10.1159/000343718,Cardiovascular
+194,10.1136/heartjnl-2012-302397,"Cardiovascular,Immunity and Inflammation"
+195,10.1161/hypertensionaha.112.198366,Cardiovascular
+196,10.2217/fon.12.136,Translational Physiology
+197,10.1378/chest.12-1797,Translational Physiology
+198,10.3174/ajnr.a3090,"Cardiovascular, Dementia and Cerebrovascular disease"
+199,10.1152/ajpendo.00207.2012,Diabetes
+200,10.1016/j.neuroimage.2012.10.088,Functional Neurosciences and Imaging
+201,10.1016/j.neuroimage.2012.08.035,Functional Neurosciences and Imaging
+202,10.1007/s00221-012-3239-9,Functional Neurosciences and Imaging
+203,10.1109/titb.2012.2212202,Biomedical Informatics and Technology
+204,10.1016/j.humpath.2012.01.020,"Cancer, Pathology and Bioresources"
+205,10.1038/jcbfm.2012.105,Functional Neurosciences and Imaging
+206,10.1007/s00125-012-2676-0,Diabetes
+207,10.1007/s00428-012-1318-8,"Cancer, Pathology and Bioresources"
+208,10.1038/oby.2012.65,Genomic Medicine
+209,10.1016/j.ajhg.2012.08.027,Genomic Medicine
+210,10.3389/fimmu.2012.00346,Vaccines
+211,10.1167/iovs.12-9612,Other BRC Funded Work
+212,10.1111/j.1468-1331.2012.03739.x,Dementia and Cerebrovascular disease
+213,10.1016/s1474-4422(12)70234-x,Dementia and Cerebrovascular disease
+214,10.1136/gutjnl-2011-300650,Vaccines
+215,10.18632/oncotarget.694,Genomic Medicine
+217,10.1016/j.ejca.2012.05.010,Cancer
+218,10.1016/j.jaci.2012.05.046,Immunity and Inflammation
+219,10.1016/j.jhep.2012.07.008,Immunity and Inflammation
+220,10.1093/carcin/bgs239,Cancer
+221,10.1002/mrm.24142,Cardiovascular
+222,10.2217/fca.12.46,Cardiovascular
+223,10.1371/journal.ppat.1003042,Immunity and Inflammation
+224,10.1038/nature11827,Cancer
+225,10.1182/blood-2012-05-433540,"Blood, Genomic Medicine"
+226,10.1136/jnnp-2012-303585,Immunity and Inflammation
+227,10.1161/circgenetics.112.963660,Cardiovascular
+228,10.1176/appi.ajp.2012.12040499,Cognitive Health
+229,10.1162/jocn_a_00294,Cognitive Health
+230,10.1161/circulationaha.112.126920,Cardiovascular
+231,10.1186/1532-429x-14-88,Cardiovascular
+232,10.1136/thoraxjnl-2012-202178,Translational Physiology
+233,10.1371/annotation/900641dd-0b06-4a77-9e2c-b7161dd49e1d,Vaccines
+235,10.1038/ng.2462,Immunity and Inflammation
+236,10.1016/j.clinph.2012.04.026,Functional Neurosciences and Imaging
+237,10.1002/bjs.8932,Blood
+238,10.1002/hbm.21402,Functional Neurosciences and Imaging
+239,10.1371/journal.pgen.1003074,Genomic Medicine
+240,10.1007/s12022-012-9221-z,Pathology and Bioresources
+241,10.1007/s10555-012-9394-4,Cancer
+242,10.1056/nejmp1212285,Genomic Medicine
+243,10.1111/bjh.12067,Genomic Medicine
+244,10.1161/strokeaha.112.667204,Immunity and Inflammation
+245,10.1038/mt.2012.223,Vaccines
+246,10.1038/ng.2435,Dementia and Cerebrovascular disease
+247,10.1016/s1473-3099(12)70292-x,Vaccines
+248,10.1093/hmg/dds357,Dementia and Cerebrovascular disease
+249,10.1158/1055-9965.epi-12-0903,Genomic Medicine
+250,10.1111/j.1365-2249.2012.04656.x,Immunity and Inflammation
+251,10.1007/s10554-012-0174-6,Cardiovascular
+252,10.1038/ng.2500,Cardiovascular
+253,10.1182/blood-2012-06-436188,Cardiovascular
+254,10.1371/journal.pone.0048687,Genomic Medicine
+255,10.1186/1471-2407-12-590,Cancer
+256,10.1186/gb-2012-13-12-r118,Immunity and Inflammation
+257,10.2337/db12-0880,Dementia and Cerebrovascular disease
+258,10.1182/blood-2012-08-448613,Blood
+259,10.1074/jbc.m112.428854,Cancer
+260,10.1038/nm0513-530,Molecular Diagnostics
+261,10.12968/hmed.2013.74.sup1.c5,Blood
+262,10.1111/apt.12149,Dementia and Cerebrovascular disease
+263,10.1111/bjh.12075,Genomic Medicine
+264,10.7861/clinmedicine.13-3-252,Biomedical Informatics and Technology
+265,10.1053/j.gastro.2012.09.016,Genomic Medicine
+266,10.1038/ng.2492,Genomic Medicine
+267,10.1109/tbme.2012.2208459,Biomedical Informatics and Technology
+268,10.1007/s11886-012-0326-2,Cardiovascular
+269,10.1007/8904_2012_140,Genomic Medicine
+270,10.1159/000342877,Translational Physiology
+271,10.1136/jclinpath-2012-201231,Cancer
+272,10.1007/s10456-012-9318-5,Cancer
+273,10.1042/bj20120972,Cancer
+274,10.1080/15265161.2013.849307,Ethics
+275,10.1016/j.ejca.2012.07.028,Cancer
+276,10.1093/brain/aws325,Immunity and Inflammation
+277,10.1080/09658211.2012.730530,Cognitive Health
+278,10.1161/strokeaha.112.678672,Dementia and Cerebrovascular Disease
+279,10.1523/jneurosci.4437-12.2013,"Cognitive Health, Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging"
+280,10.1016/s1474-4422(12)70299-5,Immunity and Inflammation
+281,10.1038/ni.2497,Immunity and Inflammation
+282,10.1056/NEJMoa1110039,Immunity and Inflammation
+283,10.1186/1532-429x-15-s1-w9,Translational Physiology
+284,10.1016/j.resp.2013.05.015,Biomedical Informatics and Technology
+285,10.1186/1532-429x-15-s1-o24,Translational Physiology
+286,10.1097/qad.0b013e32835b8cf5,Immunity and Inflammation
+287,10.1186/1532-429x-15-s1-p162,Translational Physiology
+288,10.1186/1532-429x-15-13,Translational Physiology
+289,10.1002/ana.23838,Dementia and Cerebrovascular disease
+290,10.1161/strokeaha.112.673384,Dementia and Cerebrovascular disease
+291,10.2217/pme.13.33,Molecular Diagnostics
+292,10.1002/hec.1812,Genomic Medicine
+293,10.1038/ng.2480,Diabetes
+294,10.1038/ng.2477,Diabetes
+295,10.1007/s00125-012-2715-x,Diabetes
+296,10.1371/journal.pone.0055272,Diabetes
+297,10.4161/hv.22464,Vaccines
+298,10.1136/heartjnl-2012-303028,"Cardiovascular, Immunity and Inflammation"
+299,10.1038/nature11725,Diabetes
+300,10.1016/j.parkreldis.2013.09.025,Functional Neurosciences and Imaging
+301,10.1099/vir.0.047506-0,Immunity and Inflammation
+302,10.1136/gutjnl-2011-301601,Genomic Medicine
+303,10.1093/aje/kws297,Diabetes
+304,10.1177/193229681300700115,Prevention and Population Care
+305,10.1371/journal.pgen.1003219,"Genomic Medicine, Molecular Diagnostics"
+306,10.1016/s0140-6736(12)62194-1,Vaccines
+307,10.1186/1471-2164-14-55,Genomic Medicine
+308,10.1136/heartjnl-2012-302533,Cardiovascular
+309,10.1038/bmt.2012.252,Blood
+310,10.1523/jneurosci.4675-12.2013,Cognitive Health
+311,10.1162/jocn_a_00314,Cognitive Health
+312,10.3109/02656736.2012.762553,Biomedical Informatics and Technology
+313,10.1074/jbc.m112.411462,Immunity and Inflammation
+314,10.1016/j.neuroimage.2013.01.009,Functional Neurosciences and Imaging
+315,10.1136/bmjopen-2013-003995,Diabetes
+316,10.1038/ng.2503,Genomic Medicine
+317,10.1093/eurheartj/ehs461,"Cardiovascular, Immunity and Inflammation"
+318,10.1161/circgenetics.111.000032,Cardiovascular
+319,10.1109/jstsp.2012.2234081,Biomedical Informatics and Technology
+320,10.1093/carcin/bgs357,Genomic Medicine
+321,10.1093/jnci/djs486,Surgical Innovation and Evaluation 
+322,10.1371/journal.pmed.1001383,Genomic Medicine
+323,10.4049/jimmunol.1201455,Vaccines
+324,10.1016/j.cell.2013.01.035,Genomic Medicine
+325,10.1016/j.vaccine.2012.12.042,Vaccines
+326,10.1371/journal.pone.0057320,Infection
+327,10.1192/bjp.bp.112.115659,Cognitive Health
+328,10.1016/s1473-3099(12)70277-3,Infection
+329,10.1182/blood-2012-06-436436,Immunity and Inflammation
+330,10.1111/cei.12525,Immunity and Inflammation
+331,10.1016/j.coi.2012.11.002,Immunity and Inflammation
+332,10.1016/j.tig.2012.10.006,Immunity and Inflammation
+333,10.4049/jimmunol.1201331,Immunity and Inflammation
+334,10.1111/dom.12032,Diabetes
+335,10.1155/2013/107534,Genomic Medicine
+336,10.1002/path.4139,Genomic Medicine
+337,10.1227/neu.0b013e31827b97d6,Functional Neurosciences and Imaging
+338,10.1016/j.expneurol.2012.11.011,Functional Neurosciences and Imaging
+339,10.1371/journal.pone.0053990,Functional Neurosciences and Imaging
+340,10.1182/blood-2012-07-445965,Blood
+341,10.1007/s00125-012-2756-1,Diabetes
+342,10.1016/j.ijcard.2012.06.105,Cardiovascular
+343,10.1016/j.cmet.2013.01.011,Diabetes
+344,10.1212/wnl.0b013e318281ccec,Functional Neurosciences and Imaging
+345,10.1093/infdis/jis734,Immunity and Inflammation
+346,10.1136/emermed-2013-202441,Cardiovascular
+347,10.1136/bmj.f1163,Patient and Public Involvement
+348,10.1177/0956797612457782,Cognitive Health
+349,10.1038/nature11935,Genomic Medicine
+350,10.1016/j.psychres.2012.09.047,Cognitive Health
+351,10.2337/db12-0406,Diabetes
+352,10.1056/nejmoa1209825,Prevention and Population Care
+353,10.1038/bjc.2013.56,Cancer
+354,10.1016/j.neuroimage.2012.11.059,Cognitive Health
+355,10.1016/j.cortex.2012.04.011,"Cognitive Health, Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging"
+356,10.1007/s10728-012-0234-z,Patient and Public Involvement
+357,10.1378/chest.12-1285,Translational Physiology
+358,10.3945/jn.112.172049,Diabetes
+359,10.1016/j.cognition.2012.11.002,Functional Neurosciences and Imaging
+360,10.1097/tp.0b013e318282256f,Diabetes
+361,10.1038/ejhg.2012.172,Surgical Innovation and Evaluation 
+362,10.1016/j.jval.2012.10.013,Prevention and Population Care
+363,10.1016/j.neurobiolaging.2012.07.011,"Cognitive Health, Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging"
+364,10.1038/ijo.2012.59,Pathology and Bioresources
+365,10.1097/mco.0b013e32835d2edf,Diabetes
+366,10.1111/cup.12075,Other BRC Funded Work
+367,10.1210/jc.2012-3516,Diabetes
+368,10.1016/s0140-6736(13)60554-1,Genomic Medicine
+369,10.1111/jpc.12037,Vaccines
+370,10.1097/qai.0b013e318282537f,Immunity and Inflammation
+371,10.1371/journal.pone.0057726,Vaccines
+372,10.1097/MD.0b013e31828a01f9,Vaccines
+373,10.1016/j.imbio.2012.05.008,Vaccines
+374,10.1002/jso.23220,"Cancer, Surgical Innovation and Evaluation"
+375,10.1093/cid/cis1006,Infection
+376,10.1177/0883073813480392,Immunity and Inflammation
+377,10.1136/heartjnl-2012-302965,Cardiovascular
+378,10.1016/j.ihj.2013.02.005,Cardiovascular
+379,10.1038/ng.2539,Genomic Medicine
+380,10.1002/hbm.21449,Functional Neurosciences and Imaging
+381,10.1371/journal.pone.0060454,Cardiovascular
+382,10.1002/mrm.24302,Cardiovascular
+383,10.1038/ncomms2571,Functional Neurosciences and Imaging
+384,10.1128/jvi.02793-12,Immunity and Inflammation
+385,10.1002/14651858.cd009072.pub3,Blood
+386,10.1016/j.cub.2013.01.068,Functional Neurosciences and Imaging
+387,10.1016/s0140-6736(13)60177-4,Vaccines
+388,10.1111/jth.12120,Cardiovascular
+389,10.1111/dme.12038,Diabetes
+390,10.1016/j.jim.2013.03.001,Vaccines
+391,10.1016/j.jacc.2012.12.024,Cardiovascular
+392,10.1089/ars.2012.4824,Cardiovascular
+393,10.1007/s11517-013-1059-0,Biomedical Informatics and Technology
+394,10.1136/emermed-2011-200499,Biomedical Informatics and Technology
+395,10.1182/blood-2012-05-430926,Blood
+396,10.1038/leu.2013.259,Blood
+397,10.1016/j.ctrv.2012.08.004,Cancer
+398,10.1016/j.neuron.2013.01.039,Cognitive Health
+399,10.1038/ng.2528,Diabetes
+400,10.1111/dom.12052,Diabetes
+401,10.1002/hbm.22282,Functional Neurosciences and Imaging
+402,10.1016/j.neurobiolaging.2012.08.010,Dementia and Cerebrovascular disease
+403,10.1016/j.eururo.2013.07.015,Surgical Innovation and Evaluation
+404,10.1111/j.1365-2990.2012.01272.x,Pathology and Bioresources
+405,10.1038/ejhg.2012.166,Genomic Medicine
+406,10.2337/dc12-1668,Dementia and Cerebrovascular disease
+407,10.1038/leu.2012.306,"Immunity and Inflammation, Molecular Diagnostics"
+408,10.1530/endoabs.31.oc5.3,Genomic Medicine
+409,10.1093/brain/awt031,Dementia and Cerebrovascular Disease
+410,10.1002/path.4132,Genomic Medicine
+411,10.1136/bmjopen-2013-002822,Vaccines
+412,10.1136/archdischild-2012-303103,Vaccines
+413,10.1002/ijc.28454,Cancer
+414,10.1016/S1470-2045(13)70237-7,Cancer
+415,10.1093/annonc/mds511,Cancer
+416,10.1259/bjr.20120398,Cancer
+417,10.1016/s1470-2045(13)70021-4,Cancer
+418,10.1155/2013/459520,Cardiovascular
+419,10.1136/jclinpath-2013-201457,Pathology and Bioresources
+420,10.1016/j.pain.2012.11.016,Functional Neurosciences and Imaging
+421,10.1136/annrheumdis-2012-203080,Immunity and Inflammation
+422,10.4049/jimmunol.1202926,Immunity and Inflammation
+423,10.1111/cei.12039,Immunity and Inflammation
+424,10.1371/journal.pone.0059905,Diabetes
+425,10.1016/j.jcmg.2012.11.013,Cardiovascular
+426,10.1016/j.neuroimage.2012.12.041,Functional Neurosciences and Imaging
+427,10.3389/fnins.2013.00046,Functional Neurosciences and Imaging
+428,10.1182/blood-2011-12-397067,Blood
+429,10.1111/cge.12055,Diabetes
+430,10.1136/bmjopen-2012-002460,Prevention and Population Care
+431,10.1136/heartjnl-2013-303964,Cardiovascular
+432,10.1007/s40273-013-0047-4,Biomedical Informatics and Technology
+433,10.1016/j.neuroimage.2013.03.059,Cognitive Health
+434,10.1093/hmg/ddt015,Genomic Medicine
+435,10.1016/j.jagp.2012.12.025,Dementia and Cerebrovascular Disease
+436,10.4244/eijv8i12a209,Cardiovascular
+437,10.1159/000348845,Translational Physiology
+438,10.2337/db12-1077,Diabetes
+439,10.1111/vox.12003,Blood
+440,10.1182/blood.V116.21.223.223,Blood
+441,10.1056/nejmoa1212772,Blood
+442,10.1111/codi.12147,Cancer
+443,10.1016/j.jaac.2013.02.010,Cognitive Health
+444,10.1136/heartjnl-2013-304019.167,Cardiovascular
+445,10.1111/jicd.12088,Cardiovascular
+446,10.7150/thno.5895,Cardiovascular
+447,10.1016/j.visres.2013.02.007,Functional Neurosciences and Imaging
+448,10.1186/1532-429x-15-46,Cardiovascular
+449,10.1161/CIRCIMAGING.113.000218,Cardiovascular
+450,10.1136/heartjnl-2013-304019.222,Cardiovascular
+451,10.1161/circimaging.112.000070,"Cardiovascular, Translational Physiology"
+452,10.1038/ejhg.2013.81,Cardiovascular
+453,10.1371/journal.pgen.1003488,Genomic Medicine
+454,10.1371/journal.pone.0064233,Pathology and Bioresources
+455,10.1084/jem.20122308,Pathology and Bioresources
+456,10.2337/db12-0819,Diabetes
+457,10.2337/db12-1032,Pathology and Bioresources
+458,10.1038/ng.2606,Pathology and Bioresources
+459,10.1016/j.vaccine.2013.03.036,Vaccines
+460,10.1542/peds.2013-2294iiii,Vaccines
+461,10.1371/journal.ppat.1003303,Vaccines
+462,10.1093/hmg/ddt033,Vaccines
+463,10.1371/journal.pone.0062778,Vaccines
+464,10.1371/journal.pone.0063540,Infection
+465,10.1371/journal.pone.0061319,Infection
+467,10.1016/j.neuroimage.2013.05.096,Functional Neurosciences and Imaging
+468,10.1016/j.ccr.2013.03.013,Cancer
+469,10.1093/jnci/djt054,Cancer
+470,10.1007/s11883-013-0325-9,Cardiovascular
+471,10.1182/blood-2012-09-455238,Blood
+472,10.1007/s00221-013-3484-6,Functional Neurosciences and Imaging
+473,10.1016/s0140-6736(13)60650-9,Blood
+474,10.1136/bmjopen-2012-002154,Blood
+475,10.1111/j.1537-2995.2012.03849.x,Blood
+476,10.1111/cge.12157,Genomic Medicine
+477,10.1186/1471-2407-13-245,Cancer
+479,10.1016/j.celrep.2013.04.006,Cardiovascular
+480,10.1136/heartjnl-2013-304223,Cardiovascular
+481,10.1016/j.jcin.2012.12.133,Cardiovascular
+482,10.1371/journal.pone.0065601,Cognitive Health
+483,10.1371/journal.pone.0066351,Dementia and Cerebrovascular Disease
+484,10.1158/1078-0432.ccr-13-0634,Cancer
+485,10.1016/j.concog.2013.01.008,Cognitive Health
+486,10.1186/1745-6215-14-161,Cognitive Health
+487,10.1371/journal.pmed.1001474,Diabetes
+488,10.1159/000348324,Functional Neurosciences and Imaging
+489,10.1016/j.rbmo.2013.02.012,Genomic Medicine
+490,10.3233/jpd-120126,Functional Neurosciences and Imaging
+491,10.1681/asn.2012080783,Cardiovascular
+492,10.1097/qco.0b013e32835fb829,Vaccines
+493,10.1093/hmg/ddt063,Genomic Medicine
+494,10.1038/tpj.2012.2,Genomic Medicine
+495,10.1093/humrep/det077,Genomic Medicine
+496,10.1161/circinterventions.112.000064,Cardiovascular
+497,10.1093/eurheartj/ehs443,"Cardiovascular, Immunity and Inflammation"
+498,10.1136/gutjnl-2011-300537,Genomic Medicine
+499,10.3399/bjgp13x668168,Prevention and Population Care
+500,10.1136/jclinpath-2012-201348,Pathology and Bioresources
+501,10.1152/ajpendo.00630.2012,Pathology and Bioresources
+502,10.1038/nature12170,Diabetes
+503,10.2337/dc12-0643,Dementia and Cerebrovascular disease
+504,10.1371/journal.pgen.1003500,Pathology and Bioresources
+505,10.1136/archdischild-2012-301885.55,Vaccines
+506,10.1161/strokeaha.113.679936,Dementia and Cerebrovascular Disease
+507,10.1111/bjd.12503,Cancer
+508,10.1371/journal.pone.0065960,Vaccines
+509,10.1016/j.ccr.2013.05.009,Cancer
+510,10.1093/cid/cit089,Infection
+511,10.1038/cdd.2013.47,Cancer
+512,10.1016/j.vaccine.2013.03.070,Vaccines
+513,10.1586/erv.13.48,Vaccines
+514,10.1016/j.vaccine.2013.04.036,Vaccines
+515,10.1136/archdischild-2012-302153,Vaccines
+516,10.1016/j.clon.2013.01.006,Cancer
+517,10.1016/s1470-2045(13)70136-0,Cancer
+518,10.1371/journal.pone.0066129,Infection
+519,10.1093/cid/cit127,Infection
+520,10.1038/bmt.2012.236,Blood
+521,10.1099/vir.0.051052-0,Immunity and Inflammation
+522,10.7861/clinmedicine.13-3-278,Diabetes
+523,10.4049/jimmunol.1203267,Immunity and Inflammation
+524,10.4161/auto.24132,Immunity and Inflammation
+525,10.1111/cea.12023,Immunity and Inflammation
+526,10.1016/j.jcmg.2012.11.020,Immunity and Inflammation
+527,10.1016/j.celrep.2013.04.031,Blood
+528,10.1002/path.4185,Genomic Medicine
+529,10.1016/j.jvs.2013.12.006,Cardiovascular
+530,10.1016/j.jcmg.2012.10.030,Cardiovascular
+531,10.1161/circulationaha.112.001133,Cardiovascular
+532,10.1038/ejhg.2013.116,Dementia and Cerebrovascular Disease
+533,10.1056/nejmoa1300253,Genomic Medicine
+534,10.1192/bjp.bp.113.126987,Cardiovascular
+535,10.1161/circimaging.113.000498,Cardiovascular
+536,10.1093/bja/aet174,Functional Neurosciences and Imaging
+537,10.1002/art.37962,Functional Neurosciences and Imaging
+538,10.1016/j.expneurol.2012.07.005,Functional Neurosciences and Imaging
+539,10.1161/circimaging.113.000528,Cardiovascular
+540,10.1002/gepi.21729,Dementia and Cerebrovascular Disease
+541,10.1111/bjh.12352,Blood
+542,10.1161/strokeaha.113.000949,Dementia and Cerebrovascular Disease
+543,10.3324/haematol.2012.077685,Blood
+544,10.1177/2040622313485275,Vaccines
+545,10.1523/jneurosci.3887-12.2013,Functional Neurosciences and Imaging
+546,10.1136/jclinpath-2013-201440,Pathology and Bioresources
+547,10.1111/his.12224,Pathology and Bioresources
+548,10.1093/hmg/ddt131,Genomic Medicine
+549,10.1074/mcp.m113.028365,Pathology and Bioresources
+550,10.1109/jbhi.2012.2234130,Biomedical Informatics and Technology
+551,10.1038/mt.2013.162,Vaccines
+553,10.1097/inf.0b013e318292f425,Vaccines
+554,10.1186/1742-4690-10-72,Vaccines
+555,10.1177/0956462413476267,Immunity and Inflammation
+556,10.12968/pnur.2013.24.7.323,Vaccines
+557,10.1038/leu.2013.224,Blood
+558,10.1038/ng.2667,Immunity and Inflammation
+559,10.1136/jnnp-2012-303807,Immunity and Inflammation
+560,10.1186/1471-2334-13-341,Immunity and Inflammation
+561,10.1146/annurev-genom-091212-153455,Immunity and Inflammation
+562,10.2147/ijn.s44013,Immunity and Inflammation
+563,10.1097/bor.0b013e3283620163,Immunity and Inflammation
+564,10.1136/heartjnl-2012-303052,Translational Physiology
+565,10.1038/bjc.2013.240,Cancer
+566,10.1017/s0033291712002358,Cognitive Health
+567,10.1016/j.dcn.2013.02.004,Cognitive Health
+568,10.1093/hmg/ddt104,Diabetes
+569,10.1186/gb-2013-14-7-r75,Diabetes
+570,10.1371/journal.pone.0067695,Functional Neurosciences and Imaging
+571,10.1016/j.neuroimage.2013.02.038,Functional Neurosciences and Imaging
+572,10.1111/trf.12058,Blood
+573,10.1186/1745-6215-14-206,Blood
+574,10.1007/s10608-013-9564-x,Cognitive Health
+575,10.1136/bmj.f4303,Blood
+576,10.3324/haematol.2013.086686,Molecular Diagnostics
+577,10.1097/wad.0b013e31829b72f1,Dementia and Cerebrovascular Disease
+578,10.1111/bioe.12040,Patient and Public Involvement
+579,10.1002/mrm.24867,Cardiovascular
+580,10.1158/1078-0432.ccr-12-3647,Cancer
+581,10.1016/j.jacc.2013.06.044,Cardiovascular
+582,10.1111/bjh.12491,Molecular Diagnostics
+583,10.1177/2047487313501886,Prevention and Population Care
+584,10.3324/haematol.2013.088997,Blood
+585,10.1038/ng.2694,Immunity and Inflammation
+586,10.1200/jco.2012.46.9478,Cancer
+587,10.12703/p5-31,Cardiovascular
+588,10.1111/dme.12210,Genomic Medicine
+589,10.1136/heartjnl-2012-303443,Translational Physiology
+590,10.1136/jclinpath-2013-201608,Pathology and Bioresources
+591,10.1096/fj.13-228759,"Diabetes, Genomic Medicine"
+592,10.1016/j.ccr.2013.06.004,"Cancer, Blood"
+593,10.1530/erc-12-0129,Pathology and Bioresources
+594,10.1161/circulationaha.113.001719,Cardiovascular
+595,10.1002/cam4.105,Cancer
+596,10.1586/14760584.2013.814862,Vaccines
+597,10.1111/nan.12020,Dementia and Cerebrovascular Disease
+598,10.1016/s0140-6736(13)61572-x,Vaccines
+599,10.1093/tropej/fmt024,Vaccines
+600,10.4161/hv.24998,"Immunity and Inflammation, Vaccines"
+601,10.1016/j.anndiagpath.2013.04.001,Pathology and Bioresources
+602,10.1517/14712598.2013.791277,"Immunity and Inflammation, Vaccines"
+603,10.1583/13-4244.1,Cardiovascular
+604,10.1111/nyas.12256,Cognitive Health
+605,10.1186/1532-429x-15-69,Cardiovascular
+606,10.1371/journal.pone.0070735,Diabetes
+607,10.1007/s10286-013-0206-x,Functional Neurosciences and Imaging
+608,10.1182/blood-2013-03-489112,Blood
+609,10.3389/fimmu.2013.00223,"Immunity and Inflammation, Infection"
+610,10.1093/hmg/ddt357,Genomic Medicine
+611,10.1161/circulationaha.113.002583,Cardiovascular
+612,10.5083/ejcm.20424884.102,Cardiovascular
+613,10.1007/s11265-013-0835-2,Biomedical Informatics and Technology
+614,10.1016/s0140-6736(13)61454-3,Cardiovascular
+615,10.1161/jaha.113.000251,Biomedical Informatics and Technology
+616,10.1371/journal.pone.0066749,Immunity and Inflammation
+617,10.1038/bjc.2013.416,Genomic Medicine
+618,10.1038/leu.2013.20,Blood
+619,10.1128/cvi.00427-13,Research Education and Training
+620,10.1136/heartjnl-2013-304354,Cardiovascular
+621,10.1161/circresaha.113.300282,Cardiovascular
+622,10.1161/circresaha.112.274464,Cardiovascular
+623,10.1016/j.bbmt.2013.07.006,Blood
+624,10.1136/medethics-2012-100676,Patient and Public Involvement
+625,10.1016/j.jbtep.2013.01.003,Cognitive Health
+626,10.3399/bjgp13x671812,Patient and Public Involvement
+627,10.1160/th13-05-0368,Cardiovascular
+628,10.1378/chest.13-0179,Cardiovascular
+629,10.1016/j.ijcard.2012.12.005,"Cardiovascular, Immunity and Inflammation"
+630,10.1136/heartjnl-2012-303346,Cardiovascular
+631,10.1016/j.jad.2013.09.013,Cognitive Health
+632,10.1097/01.ogx.0000459566.75982.8c,Genomic Medicine
+633,10.1101/gr.152942.112,Genomic Medicine
+634,10.3945/ajcn.112.044545,Cardiovascular
+635,10.1186/1532-429x-15-s1-o14,Cardiovascular
+636,10.1161/circimaging.113.000559,Cardiovascular
+637,10.1016/j.biopsych.2013.04.015,"Cognitive Health, Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging"
+638,10.1002/pros.22690,Pathology and Bioresources
+639,10.1016/j.aca.2013.06.041,Pathology and Bioresources
+640,10.1136/thoraxjnl-2013-203508,Translational Physiology
+641,10.1371/journal.pone.0069097,Pathology and Bioresources
+642,10.1016/j.mpdhp.2013.08.002,Pathology and Bioresources
+643,10.1016/j.humpath.2013.05.017,Pathology and Bioresources
+644,10.1111/j.1464-410x.2012.11690.x,Pathology and Bioresources
+645,10.4137/cmed.s7314,Diabetes
+646,10.1136/archdischild-2013-303893,Vaccines
+647,10.1093/cid/cit373,Vaccines
+648,10.3324/haematol.2013.089490,Genomic Medicine
+649,10.1111/1469-0691.12183,Infection
+650,10.1007/s00296-012-2404-6,Immunity and Inflammation
+651,10.1182/blood-2013-02-482331,Immunity and Inflammation
+652,10.2337/dc12-2329,Diabetes
+653,10.1136/bmjopen-2013-003631,"Immunity and Inflammation, Prevention and Population Care"
+654,10.1016/j.maturitas.2013.06.005,Functional Neurosciences and Imaging
+655,10.1002/ana.23951,Functional Neurosciences and Imaging
+656,10.1007/s00439-013-1309-0,Genomic Medicine
+657,10.1007/s10741-012-9341-z,Cardiovascular
+658,10.1001/jamaneurol.2013.3499,Functional Neurosciences and Imaging
+659,10.1523/jneurosci.1036-13.2013,Functional Neurosciences and Imaging
+660,10.3171/2013.7.focus1346,Functional Neurosciences and Imaging
+661,10.2174/1381612822666160226132112,Blood
+662,10.1111/trf.12429,Blood
+663,10.1136/medethics-2012-101290,Ethics
+664,10.1182/blood-2013-03-486647,Blood
+665,10.1182/blood-2013-03-491589,Blood
+666,10.3324/haematol.2013.094193,Blood
+667,10.1182/blood-2012-09-458570,Blood
+668,10.1002/eji.201343509,Immunity and Inflammation
+669,10.1161/circulationaha.112.000249,Cardiovascular
+670,10.1093/eurheartj/eht369,Cardiovascular
+671,10.1038/501160a,Patient and Public Involvement
+672,10.1007/s10974-013-9359-4,Cardiovascular
+673,10.1161/CIRCULATIONAHA.113.002251,Cardiovascular
+674,10.1161/circulationaha.113.002717,Diabetes
+675,10.1161/CIRCULATIONAHA.113.005375,Cardiovascular
+676,10.1038/onc.2012.486,"Cancer, Genomic Medicine"
+677,10.1056/nejmoa1216064,Infection
+678,10.1016/j.ijcard.2013.03.019,Cardiovascular
+679,10.1200/jco.2013.48.8114,Blood
+680,10.1200/jco.2012.45.5626,Blood
+681,10.2337/db13-0128,Diabetes
+682,10.1038/nature12495,Blood
+683,10.1016/j.ultrasmedbio.2013.04.010,Surgical Innovation and Evaluation
+684,10.1038/nrcardio.2013.130,Cardiovascular
+685,10.1038/ejhg.2012.306,Genomic Medicine
+686,10.1016/j.expneurol.2013.06.010,Functional Neurosciences and Imaging
+687,10.12968/hmed.2013.74.10.564,Functional Neurosciences and Imaging
+688,10.1161/strokeaha.113.001857,Dementia and Cerebrovascular Disease
+689,10.1016/j.jvs.2013.12.010,Dementia and Cerebrovascular Disease
+690,10.1136/heartjnl-2013-304207,Prevention and Population Care
+691,10.1111/bjh.12582,Blood
+692,10.1080/13803395.2013.825235,Dementia and Cerebrovascular Disease
+693,10.18632/oncotarget.1148,Pathology and Bioresources
+694,10.1016/j.jcmg.2013.03.008,Translational Physiology
+695,10.1161/strokeaha.113.001584,Prevention and Population Care
+696,10.1517/14712598.2013.824419,Vaccines
+697,10.1016/j.vaccine.2013.08.009,Vaccines
+698,10.1155/2013/843282,Cancer
+699,10.1093/jac/dkt180,Infection
+700,10.1097/inf.0b013e31829cfff2,Vaccines
+701,10.1503/cmaj.130257,Vaccines
+702,10.1016/j.jacc.2015.07.059,"Biomedical Informatics and Technology, Blood, Prevention and Population Care"
+703,10.1525/jer.2013.8.4.1,Other BRC Funded Work
+704,10.1016/j.immuni.2013.09.004,Immunity and Inflammation
+705,10.1038/srep03030,Immunity and Inflammation
+706,10.1007/s10578-013-0386-6,Cognitive Health
+707,10.1016/j.jinf.2013.09.013,Vaccines
+708,10.1371/journal.pone.0078287,Immunity and Inflammation
+709,10.1038/ng.2756,Immunity and Inflammation
+710,10.3389/fnhum.2013.00623,Cardiovascular
+711,10.1161/strokeaha.113.002414,Prevention and Population Care
+712,10.1523/jneurosci.1790-13.2013,Functional Neurosciences and Imaging
+713,10.1093/brain/awt239,Functional Neurosciences and Imaging
+714,10.1016/j.meegid.2013.01.021,Immunity and Inflammation
+715,10.1073/pnas.1311055110,Blood
+716,10.1358/dot.2013.49.10.2025391,Blood
+717,10.3324/haematol.2013.092254,Blood
+718,10.1016/j.ijcard.2013.03.064,Cardiovascular
+719,10.1016/j.mjafi.2014.03.004,Prevention and Population Care
+720,10.1016/j.cell.2013.09.017,Genomic Medicine
+721,10.1074/jbc.m113.493023,Cardiovascular
+722,10.1016/s1474-4422(13)70211-4,Dementia and Cerebrovascular Disease
+723,10.1186/1532-429x-15-92,Translational Physiology
+724,10.1037/a0033247,Cognitive Health
+725,10.1016/j.neuroimage.2013.05.082,Functional Neurosciences and Imaging
+726,10.1523/jneurosci.2625-13.2013,Cognitive Health
+727,10.1089/ars.2013.5542,Cardiovascular
+728,10.1016/j.freeradbiomed.2013.10.008,Cardiovascular
+729,10.1093/eurheartj/eht310.p5696,Cardiovascular
+730,10.1136/bmjopen-2013-003943,Prevention and Population Care
+731,10.1212/wnl.0b013e3182a9f45f,Prevention and Population Care
+732,10.1159/000355144,Cardiovascular
+733,10.1182/blood-2013-08-518886,Blood
+734,10.1016/j.exphem.2013.05.297,Blood
+735,10.1159/000354797,Translational Physiology
+736,10.1159/000355496,Dementia and Cerebrovascular Disease
+737,10.1212/01.wnl.0000436079.95856.1f,Functional Neurosciences and Imaging
+738,10.1016/j.ajhg.2013.10.004,Diabetes
+739,10.1038/jcbfm.2013.129,Cardiovascular
+740,10.1136/heartjnl-2013-304245,Cardiovascular
+741,10.1111/j.1460-9592.2011.03591.x,Cardiovascular
+742,10.1161/STROKEAHA.113.002775,Dementia and Cerebrovascular Disease
+743,10.1136/bmj.f6867,Prevention and Population Care
+744,10.1002/eji.201343646,Vaccines
+745,10.2217/pgs.13.183,Genomic Medicine
+746,10.1093/infdis/jit647,Vaccines
+747,10.1016/s1473-3099(13)70200-7,Infection
+748,10.1093/rheumatology/ket219,Immunity and Inflammation
+749,10.1586/14787210.2013.845987,Infection
+750,10.1186/1742-4690-10-134,Immunity and Inflammation
+751,10.1259/bjr.20130326,Cardiovascular
+752,10.1038/ajg.2013.292,Genomic Medicine
+753,10.1093/ehjci/jet095,Cardiovascular
+754,10.1093/brain/awt249,Genomic Medicine
+755,10.1136/jnnp-2013-306104,Functional Neurosciences and Imaging
+756,10.1038/ncomms3836,Vaccines
+757,10.1016/j.stem.2013.08.012,Blood
+758,10.1038/bmt.2013.178,Blood
+759,10.1016/j.eururo.2013.04.040,Pathology and Bioresources
+760,10.1161/circulationaha.113.006218,Prevention and Population Care
+761,10.3109/02688697.2013.857006,Functional Neurosciences and Imaging
+762,10.1371/journal.pone.0078445,Infection
+763,10.1007/s00439-013-1390-4,Genomic Medicine
+764,10.1161/strokeaha.116.015468,Prevention and Population Care
+765,10.1186/1743-422x-10-335,Infection
+766,10.1038/onc.2012.584,Genomic Medicine
+767,10.1111/ijs.12201,Prevention and Population Care
+768,10.1056/NEJMoa1307557,Genomic Medicine
+769,10.1016/s0140-6736(13)61134-4,Immunity and Inflammation
+770,10.1016/j.neuroimage.2013.11.037,Functional Neurosciences and Imaging
+771,10.1378/chest.13-1096,Translational Physiology
+772,10.1182/blood-2013-07-515148,Blood
+773,10.1016/j.bcmd.2013.07.008,Blood
+774,10.1080/15265161.2013.813602,Vaccines
+775,10.1016/j.sleep.2013.09.001,Translational Physiology
+776,10.1016/j.neubiorev.2013.10.010,Cognitive Health
+777,10.3389/fnhum.2013.00857,Functional Neurosciences and Imaging
+778,10.1136/heartjnl-2013-304387,Cardiovascular
+779,10.1016/j.media.2013.06.005,Cardiovascular
+780,10.1093/bja/aet288,Translational Physiology
+781,10.1016/j.puhe.2013.09.007,Vaccines
+782,10.1111/ajt.12469,Diabetes
+783,10.1007/s12975-013-0269-y,Cardiovascular
+784,10.1093/cid/cis700,Vaccines
+785,10.1128/jcm.01095-13,Infection
+786,10.1097/qad.0000000000000130,Immunity and Inflammation
+787,10.1136/bmjopen-2013-004265,Prevention and Population Care
+788,10.1084/jem.20130351,Immunity and Inflammation
+789,10.1136/heartjnl-2013-303754,Cardiovascular
+790,10.1158/1078-0432.ccr-13-0550,Genomic Medicine
+791,10.1007/s40266-013-0128-2,Diabetes
+792,10.1200/jco.2013.50.0322,Genomic Medicine
+793,10.1097/wco.0000000000000034,Functional Neurosciences and Imaging
+794,10.1371/journal.pone.0082762,Functional Neurosciences and Imaging
+795,10.1161/strokeaha.113.002756,Dementia and Cerebrovascular Disease
+796,10.1111/trf.12171,Blood
+797,10.1016/j.expneurol.2013.06.009,Functional Neurosciences and Imaging
+798,10.1111/bjh.12553,Blood
+799,10.1111/ceo.12109,Diabetes
+800,10.1016/s2213-2600(13)70245-5,Biomedical Informatics and Technology
+801,10.1016/j.cmet.2013.10.014,Diabetes
+802,10.1093/jnci/djt347,Cancer
+803,10.1523/jneurosci.3048-13.2013,Dementia and Cerebrovascular Disease
+804,10.4244/eijv10i4a84,Cardiovascular
+805,10.1136/bmjopen-2013-003612,Prevention and Population Care
+806,10.1136/archdischild-2013-305716,Vaccines
+807,10.1002/hep.26977,Vaccines
+808,10.1074/jbc.m112.412031,Cardiovascular
+809,10.1016/j.ajhg.2013.12.010,Diabetes
+810,10.1210/jc.2013-3641,Diabetes
+811,10.2337/db13-1301,Diabetes
+812,10.1016/j.ajhg.2014.01.010,Diabetes
+813,10.7554/elife.01465,Functional Neurosciences and Imaging
+814,10.1210/jc.2013-2667,Diabetes
+815,10.1111/ejn.12574,Functional Neurosciences and Imaging
+816,10.3791/51403,Functional Neurosciences and Imaging
+817,10.1161/hypertensionaha.113.02970,Functional Neurosciences and Imaging
+818,10.1016/j.neuroimage.2013.05.084,Functional Neurosciences and Imaging
+819,10.1371/journal.pone.0086496,Functional Neurosciences and Imaging
+820,10.1097/mog.0000000000000021,Vaccines
+821,10.1016/j.jaci.2013.07.044,Vaccines
+822,10.1136/bmjopen-2013-003312,Vaccines
+823,10.1186/s12968-014-0092-y,Cardiovascular
+824,10.1371/journal.pone.0091413,Vaccines
+825,10.1186/s12968-014-0100-2,Cardiovascular
+826,10.1371/journal.pone.0089335,Diabetes
+827,10.1038/ijo.2013.56,Diabetes
+828,10.1371/journal.pgen.1004147,Diabetes
+829,10.1016/j.cmet.2013.11.015,Diabetes
+830,10.3310/hta18060-c201810,Prevention and Population Care
+831,10.1038/jhh.2013.54,Prevention and Population Care
+832,10.1186/1471-2458-14-28,Biomedical Informatics and Technology
+833,10.1136/bmjopen-2013-004107,Prevention and Population Care
+834,10.1136/bmjopen-2013-004437,Biomedical Informatics and Technology
+835,10.1158/0008-5472.can-13-1783,Blood
+836,10.1038/bmt.2014.82,Blood
+837,10.1182/blood-2013-05-506253,Blood
+838,10.1038/srep03643,Blood
+839,10.4137/bmi.s16553,Blood
+840,10.1088/0967-3334/35/5/807,Biomedical Informatics and Technology
+841,10.1177/0004563213518758,Molecular Diagnostics
+842,10.1016/j.jhep.2013.09.002,Cardiovascular
+843,10.1016/j.sigpro.2013.12.026,Biomedical Informatics and Technology
+844,10.3109/07420528.2013.843542,Translational Physiology
+845,10.1002/mds.25959,Functional Neurosciences and Imaging
+846,10.1523/jneurosci.4739-13.2014,Functional Neurosciences and Imaging
+847,10.1093/brain/awu250,Functional Neurosciences and Imaging
+848,10.1161/strokeaha.113.002707,Dementia and Cerebrovascular Disease
+849,10.1093/gbe/evt204,Infection
+850,10.1016/B978-0-444-63274-6.00018-7,Functional Neurosciences and Imaging
+851,10.1080/15265161.2014.900144,Patient and Public Involvement
+852,10.1080/15265161.2014.935879,Ethics
+853,10.1002/mds.25626,Immunity and Inflammation
+854,10.1186/1532-429x-16-36,Cardiovascular
+855,10.1186/1532-429x-16-5,Cardiovascular
+856,10.1186/1532-429x-16-29,Cardiovascular
+857,10.1002/ccd.25126,Cardiovascular
+858,10.1186/1532-429x-16-31,Cardiovascular
+859,10.1186/1532-429x-16-9,Cardiovascular
+860,10.1016/j.jim.2013.11.023,Immunity and Inflammation
+862,10.1371/journal.pone.0098739,Vaccines
+863,10.1093/cid/cit692,Vaccines
+864,10.1007/s10608-014-9598-8,Cognitive Health
+865,10.1080/02699931.2013.868342,Cognitive Health
+866,10.1093/humupd/dmt044,Genomic Medicine
+867,10.1161/circresaha.114.301904,Cardiovascular
+869,10.1200/jco.2013.50.7657,Cancer
+870,10.1016/s1353-8020(13)70013-0,Functional Neurosciences and Imaging
+871,10.1371/journal.pone.0085538,Genomic Medicine
+872,10.1097/wnr.0000000000000039,Functional Neurosciences and Imaging
+873,10.1371/journal.pone.0085055,Vaccines
+874,10.1038/nature12825,Dementia and Cerebrovascular disease
+875,10.3402/qhw.v9.22252,Prevention and Population Care
+876,10.1016/j.jinf.2014.01.006,Vaccines
+877,10.1016/s2213-8587(13)70152-9,Prevention and Population Care
+878,10.1007/s00221-013-3761-4,Functional Neurosciences and Imaging
+879,10.1161/circep.113.001110,Cardiovascular
+880,10.1128/cvi.00561-13,Vaccines
+881,10.1038/ng.2870,Diabetes
+882,10.1084/jem.20131189,Blood
+883,10.1016/s1474-4422(14)70031-6,Dementia and Cerebrovascular Disease
+884,10.1161/strokeaha.113.002938,Dementia and Cerebrovascular Disease
+885,10.1016/j.resp.2013.12.014,Functional Neurosciences and Imaging
+886,10.1161/strokeaha.113.003321,Dementia and Cerebrovascular Disease
+887,10.1016/j.urology.2013.11.005,"Cancer, Surgical Innovation and Evaluation"
+888,10.1016/j.jhin.2013.11.007,Infection
+889,10.1158/0008-5472.CAN-13-2319,Cancer
+890,10.1007/s11357-013-9535-x,Cardiovascular
+891,10.1111/dmcn.12321,Immunity and Inflammation
+892,10.1016/j.ab.2013.11.003,Immunity and Inflammation
+893,10.1038/mt.2013.248,Vaccines
+894,10.1038/ng.2897,Diabetes
+895,10.1016/j.ajhg.2013.12.012,Genomic Medicine
+896,10.1038/mp.2014.2,Functional Neurosciences and Imaging
+897,10.1186/1741-7015-12-26,Surgical Innovation and Evaluation
+898,10.1093/hmg/ddu030,Genomic Medicine
+899,10.1182/blood-2013-04-490847,Genomic Medicine
+900,10.1007/s12160-014-9595-x,Biomedical Informatics and Technology
+901,10.1117/12.2038377,Surgical Innovation and Evaluation
+902,10.1371/journal.pgen.1004123,Genomic Medicine
+903,10.1016/j.gde.2013.12.005,Genomic Medicine
+904,10.1186/1743-0003-11-36,Other BRC Funded Work
+905,10.1017/s1041610213002251,Dementia and Cerebrovascular Disease
+906,10.1002/mds.25748,Functional Neurosciences and Imaging
+907,10.1017/s104161021300207x,Patient and Public Involvement
+908,10.1016/j.brs.2015.01.309,Functional Neurosciences and Imaging
+909,10.1038/mt.2013.284,Vaccines
+910,10.1016/s1473-3099(13)70238-x,Vaccines
+911,10.1111/ced.12256,Immunity and Inflammation
+912,10.1586/14760584.2014.878654,Vaccines
+913,10.1373/clinchem.2013.211219,Cancer
+914,10.1093/jnci/dju007,Surgical Innovation and Evaluation
+915,10.1093/cid/cit807,Infection
+916,10.1126/science.1246949,Immunity and Inflammation
+917,10.1186/1532-429x-16-21,Cardiovascular
+918,10.1017/s0033291713001062,Immunity and Inflammation
+919,10.1200/jco.2013.51.1857,Genomic Medicine
+920,10.1089/aid.2014.0041,Vaccines
+921,10.1089/ars.2013.5430,Cardiovascular
+922,10.1093/cid/ciu078,Vaccines
+923,10.1186/1471-2180-14-63,Infection
+924,10.1016/s1473-3099(14)70027-1,Vaccines
+925,10.4161/hv.28350,Vaccines
+926,10.1016/j.ajhg.2014.02.012,Dementia and Cerebrovascular Disease
+927,10.1371/journal.pone.0092458,Biomedical Informatics and Technology
+928,10.1136/heartjnl-2013-305021,Translational Physiology
+929,10.1136/bmj.g2296,Immunity and Inflammation
+930,10.1186/gm543,Genomic Medicine
+931,10.1378/chest.13-1558,Translational Physiology
+932,10.1038/ng.2921,Cancer
+933,10.18632/oncotarget.1904,Cancer
+934,10.1007/s10875-014-9995-5,"Immunity and Inflammation, Molecular Diagnostics"
+935,10.1111/jvh.12141,Immunity and Inflammation
+936,10.1111/dmcn.12294,Immunity and Inflammation
+937,10.1016/j.jaci.2013.10.056,Immunity and Inflammation
+938,10.1111/imm.12226,Vaccines
+939,10.1093/cid/ciu001,Vaccines
+940,10.1371/journal.pone.0091735,Patient and Public Involvement
+941,10.1016/s2213-2600(14)70027-x,Infection
+942,10.1128/jcm.03254-13,Infection
+943,10.1128/jcm.03117-13,Infection
+944,10.1136/jnnp-2013-306724,Dementia and Cerebrovascular Disease
+945,10.1016/j.clinph.2013.10.001,Functional Neurosciences and Imaging
+946,10.1136/jnnp-2013-306577,Functional Neurosciences and Imaging
+947,10.1016/s1470-2045(13)70607-7,Genomic Medicine
+948,10.1038/ejhg.2013.244,Immunity and Inflammation
+949,10.1162/jocn_a_00526,Cognitive Health
+950,10.1038/ng.2915,Diabetes
+951,10.1007/s11886-014-0464-9,Cardiovascular
+952,10.1523/jneurosci.4281-13.2014,Dementia and Cerebrovascular Disease
+953,10.1371/journal.pgen.1004235,Genomic Medicine
+954,10.1016/j.ajhg.2014.03.007,Cardiovascular
+955,10.1210/jc.2013-3909,Genomic Medicine
+956,10.1002/aur.1365,Genomic Medicine
+957,10.1136/annrheumdis-2013-204835,Immunity and Inflammation
+958,10.1093/bioinformatics/btu196,Genomic Medicine
+959,10.1016/j.neuroimage.2013.11.046,Dementia and Cerebrovascular Disease
+960,10.1158/0008-5472.can-13-2131,Cognitive Health
+961,10.1371/journal.pgen.1004285,Genomic Medicine
+962,10.1038/ncomms4756,Surgical Innovation and Evaluation
+963,10.1093/hmg/ddu177,Genomic Medicine
+964,10.1186/1471-2377-14-93,Immunity and Inflammation
+965,10.1016/j.jneumeth.2014.02.005,Genomic Medicine
+967,10.1128/jvi.03303-13,Immunity and Inflammation
+968,10.1093/bioinformatics/btt774,Diabetes
+969,10.2337/dc13-2539,Translational Physiology
+970,10.1182/blood-2013-10-533000,Blood
+971,10.1097/rti.0000000000000077,Translational Physiology
+972,10.1038/bmt.2014.7,Blood
+973,10.1093/infdis/jit598,Infection
+974,10.1007/s11882-014-0434-8,Immunity and Inflammation
+975,10.1097/qad.0000000000000220,Blood
+976,10.1126/scitranslmed.3008249,Blood
+977,10.1136/medethics-2014-102161,Ethics
+978,10.1161/strokeaha.113.004229,Dementia and Cerebrovascular Disease
+979,10.1016/j.atherosclerosis.2014.03.002,Dementia and Cerebrovascular Disease
+980,10.1093/brain/awu040,Dementia and Cerebrovascular Disease
+981,10.3978/j.issn.2225-319X.2014.05.14,Prevention and Population Care
+983,10.1136/openhrt-2014-000043,Prevention and Population Care
+984,10.1016/j.jinf.2013.12.013,Infection
+985,10.1109/jbhi.2013.2293059,Biomedical Informatics and Technology
+986,10.1183/09031936.00180213,Translational Physiology
+987,10.1016/s1473-3099(13)70341-4,Vaccines
+988,10.1016/j.cortex.2014.02.009,Cognitive Health
+989,10.1016/j.diabres.2014.05.003,Diabetes
+990,10.1111/dote.12234,Cancer
+991,10.1371/journal.ppat.1004036,Immunity and Inflammation
+992,10.1111/dme.12373,Transplantation
+993,10.1038/ejhg.2014.74,Genomic Medicine
+994,10.1186/1745-6215-15-160,Prevention and Population Care
+995,10.1093/jnci/dju086,Genomic Medicine
+996,10.1093/hmg/ddt659,Genomic Medicine
+997,10.1016/j.neuroimage.2014.01.049,Cognitive Health
+998,10.1093/infdis/jit673,Vaccines
+999,10.1111/bjh.12910,Genomic Medicine
+1000,10.1371/journal.pmed.1001647,Genomic Medicine
+1001,10.1523/jneurosci.1169-14.2014,Functional Neurosciences and Imaging
+1002,10.1136/bmjopen-2013-004746,Prevention and Population Care
+1003,10.1038/ncomms4956,Infection
+1004,10.1186/bcr3662,Genomic Medicine
+1005,10.1016/s1388-2457(14)50406-3,Functional Neurosciences and Imaging
+1007,10.1093/hmg/ddu269,Diabetes
+1008,10.1186/1471-244x-14-159,Cognitive Health
+1009,10.1186/1748-717x-9-146,Cancer
+1010,10.1007/s40291-014-0087-2,"Genomic Medicine, Molecular Diagnostics"
+1011,10.3233/jad-132414,Dementia and Cerebrovascular Disease
+1012,10.1016/j.jviromet.2014.02.020,Immunity and Inflammation
+1013,10.1016/s2213-8587(14)70050-6,Genomic Medicine
+1014,10.2337/db13-1383,Diabetes
+1015,10.1016/j.bbmt.2014.02.020,Blood
+1016,10.1227/neu.0000000000000321,Functional Neurosciences and Imaging
+1017,10.1038/nrc3729,Genomic Medicine
+1018,10.3109/03630269.2014.885908,Genomic Medicine
+1019,10.2337/dc13-1386,Biomedical Informatics and Technology
+1020,10.1002/uog.13397,Cardiovascular
+1021,10.1016/j.ccr.2014.03.036,Blood
+1022,10.1080/02699931.2014.926861,Cognitive Health
+1023,10.1136/archdischild-2013-304601,Vaccines
+1024,10.3201/eid2006.130562,Immunity and Inflammation
+1025,10.1111/psyp.12197,Cognitive Health
+1026,10.1111/dom.12272,Diabetes
+1027,10.2337/db13-0949,Diabetes
+1028,10.4172/2329-6917.1000138,Molecular Diagnostics
+1029,10.1523/jneurosci.4741-13.2014,Cognitive Health
+1030,10.1186/1748-5908-9-70,Biomedical Informatics and Technology
+1031,10.1016/j.vaccine.2014.04.009,Vaccines
+1032,10.1016/s0140-6736(14)60684-x,Functional Neurosciences and Imaging
+1034,10.1161/atvbaha.114.303462,Cardiovascular
+1035,10.1371/journal.pone.0098608,"Diabetes, Genomic Medicine"
+1036,10.1093/hmg/ddu300,Genomic Medicine
+1037,10.1111/echo.12655,Cardiovascular
+1038,10.1158/0008-5472.can-14-0013,Genomic Medicine
+1039,10.1038/mt.2014.109,Vaccines
+1040,10.1093/hmg/ddu311,Genomic Medicine
+1041,10.4161/hv.29318,Vaccines
+1042,10.1017/s2040174414000324,Cognitive Health
+1043,10.7554/elife.02020,Genomic Medicine
+1044,10.1161/circulationaha.113.005062,Cardiovascular
+1045,10.1073/pnas.1321072111,Cognitive Health
+1046,10.1111/nan.12165,Dementia and Cerebrovascular Disease
+1047,10.1002/humu.22612,Genomic Medicine
+1048,10.1038/bjc.2014.236,Cancer
+1049,10.1586/14787210.2014.910112,Immunity and Inflammation
+1050,10.1016/j.clim.2014.04.011,Immunity and Inflammation
+1051,10.1002/14651858.cd009532.pub2,Blood
+1052,10.1038/bmt.2014.72,Blood
+1053,10.1093/brain/awu126,Functional Neurosciences and Imaging
+1054,10.1136/jnnp-2013-305340,Functional Neurosciences and Imaging
+1055,10.1111/ajt.12737,Transplantation
+1057,10.3399/bjgp14x680473,Biomedical Informatics and Technology
+1058,10.1097/inf.0000000000000327,Vaccines
+1059,10.1016/j.it.2014.04.005,Vaccines
+1060,10.1162/jocn_a_00577,Cognitive Health
+1061,10.1007/s00125-014-3320-y,Diabetes
+1062,10.1080/09674845.2014.11978288,Diabetes
+1063,10.1016/j.tem.2014.05.001,Diabetes
+1064,10.1186/1471-2407-14-497,Cancer
+1065,10.1212/nxi.0000000000000016,Immunity and Inflammation
+1066,10.1364/oe.22.017030,Translational Physiology
+1067,10.1136/gutjnl-2013-306287,Immunity and Inflammation
+1068,10.1097/mej.0000000000000166,Biomedical Informatics and Technology
+1069,10.1126/science.1254031,Immunity and Inflammation
+1070,10.1093/hmg/ddu360,Diabetes
+1071,10.1016/j.jclinepi.2014.05.011,Genomic Medicine
+1072,10.1371/journal.pone.0101672,Vaccines
+1073,10.1212/wnl.0000000000001199,Cognitive Health
+1074,10.1016/j.neuroimage.2014.03.034,Cognitive Health
+1075,10.1016/j.neuroimage.2013.12.026,Cognitive Health
+1076,10.1056/nejmoa1400376,Molecular Diagnostics
+1077,10.1212/wnl.0000000000000621,Dementia and Cerebrovascular Disease
+1078,10.1016/j.rbmo.2014.07.007,Genomic Medicine
+1079,10.1002/hep.27259,Vaccines
+1080,10.1371/journal.pgen.1004494,Genomic Medicine
+1081,10.1371/journal.pgen.1004469,Dementia and Cerebrovascular Disease
+1082,10.1007/s11605-014-2524-2,Cancer
+1083,10.1007/s00125-014-3266-0,Diabetes
+1084,10.1074/jbc.m114.576512,Cancer
+1085,10.1371/journal.pgen.1004517,Diabetes
+1086,10.1111/bju.12903,Other BRC Funded Work
+1087,10.1007/s00109-014-1194-6,Cardiovascular
+1088,10.1002/mrm.24922,Cardiovascular
+1089,10.1056/nejmra1313875,Prevention and Population Care
+1090,10.1002/ana.24200,Immunity and Inflammation
+1091,10.1073/pnas.1402351111,Blood
+1092,10.1093/eurheartj/eht434,Translational Physiology
+1093,10.1016/j.neuroimage.2014.03.056,Functional Neurosciences and Imaging
+1094,10.1200/jco.2013.49.8717,Cancer
+1095,10.1016/j.yebeh.2014.06.003,Functional Neurosciences and Imaging
+1096,10.1038/ng.3036,Genomic Medicine
+1097,10.1136/jmedgenet-2014-102497,Genomic Medicine
+1098,10.1210/jc.2014-1270,Genomic Medicine
+1099,10.1093/jmp/jhu020,Ethics
+1100,10.1371/journal.pmed.1001699,Prevention and Population Care
+1101,10.1093/cercor/bht082,Cognitive Health
+1103,10.1093/brain/awu143,Functional Neurosciences and Imaging
+1104,10.1167/iovs.14-14054,Translational Physiology
+1105,10.1002/ijc.29118,Cancer
+1106,10.1158/1078-0432.ccr-14-0341,Cancer
+1107,10.1016/j.cub.2014.06.022,Functional Neurosciences and Imaging
+1108,10.1371/journal.pone.0102645,"Diabetes, Genomic Medicine"
+1109,10.1523/jneurosci.1065-14.2014,Functional Neurosciences and Imaging
+1110,10.1093/hmg/ddu150,Genomic Medicine
+1111,10.1186/s12968-014-0057-1,"Cardiovascular, Vaccines"
+1112,10.1016/s0140-6736(14)60842-4,Vaccines
+1113,10.1212/wnl.0000000000000707,Dementia and Cerebrovascular Disease
+1114,10.1016/j.jalz.2014.06.006,Dementia and Cerebrovascular Disease
+1115,10.1016/j.eururo.2014.08.010,Surgical Innovation and Evaluation
+1116,10.1016/j.vaccine.2014.04.022,Ethics
+1117,10.1093/brain/awu142,Immunity and Inflammation
+1118,10.1016/j.immuni.2014.06.016,Immunity and Inflammation
+1119,10.1128/CVI.00099-14,Vaccines
+1120,10.1161/strokeaha.114.005982,Dementia and Cerebrovascular Disease
+1121,10.1016/j.jalz.2014.05.1755,Cognitive Health
+1122,10.1212/wnl.0000000000000737,Dementia and Cerebrovascular Disease
+1123,10.1038/mt.2014.157,Vaccines
+1124,10.3389/fimmu.2014.00400,Immunity and Inflammation
+1125,10.1186/s12881-014-0095-4,Genomic Medicine
+1126,10.1371/journal.pone.0107105,Cancer
+1127,10.1016/j.virol.2014.07.006,Immunity and Inflammation
+1128,10.2337/db13-1607,Diabetes
+1129,10.1016/j.bcp.2014.09.001,Cancer
+1130,10.4049/jimmunol.1302523,Immunity and Inflammation
+1131,10.1016/j.jcv.2014.05.018,Immunity and Inflammation
+1132,10.1172/jci75051,Immunity and Inflammation
+1133,10.1097/spc.0000000000000069,Translational Physiology
+1134,10.1016/s2213-8587(14)70113-5,Genomic Medicine
+1135,10.1016/j.jcin.2014.04.011,Cardiovascular
+1136,10.1111/bpa.12209,Dementia and Cerebrovascular Disease
+1137,10.1016/j.eururo.2014.01.003,Surgical Innovation and Evaluation
+1138,10.1016/s1470-2045(14)70361-4,Surgical Innovation and Evaluation
+1139,10.1016/j.eururo.2013.11.018,Surgical Innovation and Evaluation
+1140,10.1002/cyto.b.21165,Immunity and Inflammation
+1141,10.1111/ctr.12416,Transplantation
+1142,10.1002/nbm.3147,Cardiovascular
+1143,10.1049/htl.2014.0077,Biomedical Informatics and Technology
+1144,10.1007/s11910-014-0475-3,Cognitive Health
+1145,10.1016/j.neuroimage.2014.04.081,Cognitive Health
+1146,10.1210/jc.2014-1481,Genomic Medicine
+1147,10.1111/hpb.12326,Cancer
+1148,10.1016/s2213-8587(14)70174-3,Diabetes
+1149,10.1212/wnl.0000000000000774,Cognitive Health
+1150,10.1097/qad.0000000000000362,Immunity and Inflammation
+1151,10.1016/j.fertnstert.2014.07.1233,Genomic Medicine
+1152,10.1016/j.aca.2013.08.051,Surgical Innovation and Evaluation
+1153,10.1113/expphysiol.2014.080507,Translational Physiology
+1154,10.7554/elife.03821,Immunity and Inflammation
+1155,10.1016/j.jneuroim.2014.07.001,Immunity and Inflammation
+1156,10.1038/npjpcrm.2014.62,Biomedical Informatics and Technology
+1157,10.1186/s13550-014-0051-5,Surgical Innovation and Evaluation
+1158,10.1136/jnnp-2014-308736,Immunity and Inflammation
+1159,10.1016/j.cub.2014.08.002,Functional Neurosciences and Imaging
+1160,10.1161/strokeaha.114.006309,Dementia and Cerebrovascular Disease
+1161,10.1136/jnnp-2014-308695,Immunity and Inflammation
+1162,10.1002/mrm.25474,Cardiovascular
+1163,10.1136/archdischild-2014-306813,Vaccines
+1164,10.1371/journal.ppat.1004210,Immunity and Inflammation
+1165,10.1111/ijcp.12485,Cardiovascular
+1166,10.1111/ijcp.12471,Cardiovascular
+1167,10.1016/j.neurobiolaging.2014.04.026,Dementia and Cerebrovascular Disease
+1168,10.1111/bjd.13199,Immunity and Inflammation
+1169,10.1136/thoraxjnl-2013-204826,Translational Physiology
+1170,10.1002/mrm.25015,Cardiovascular
+1171,10.1136/jmedgenet-2014-102573,Genomic Medicine
+1172,10.1002/cld.642,Vaccines
+1173,10.1007/s10198-014-0638-9,Prevention and Population Care
+1174,10.1111/trf.12893,Blood
+1175,10.1111/tme.12149,Blood
+1176,10.1111/trf.12646,Blood
+1177,10.1007/s00277-014-2238-2,Cancer
+1178,10.1038/ejhg.2014.4,Genomic Medicine
+1179,10.1111/trf.12697,Blood
+1180,10.1016/j.pain.2014.07.009,Functional Neurosciences and Imaging
+1181,10.1093/annonc/mdu054,Cancer
+1182,10.1161/strokeaha.114.005592,Dementia and Cerebrovascular Disease
+1183,10.1007/s00520-014-2224-1,Biomedical Informatics and Technology
+1184,10.1177/1355819614531565,Patient and Public Involvement
+1185,10.1136/bjophthalmol-2014-304902,Prevention and Population Care
+1186,10.1093/infdis/jiu213,Infection
+1187,10.1017/s0033291714001585,Cognitive Health
+1188,10.3324/haematol.2014.109306,Genomic Medicine
+1189,10.1111/nyas.12545,Cognitive Health
+1190,10.1002/hbm.22367,Cognitive Health
+1191,10.1016/j.jchf.2014.04.008,Prevention and Population Care
+1192,10.1186/1755-7682-7-44,Prevention and Population Care
+1193,10.1016/s1473-3099(14)70845-x,Vaccines
+1194,10.1016/j.neurobiolaging.2014.04.013,Cognitive Health
+1195,10.1158/0008-5472.can-14-0806,Cancer
+1196,10.1016/j.ctrv.2014.07.004,Cancer
+1197,10.1038/nature13545,Genomic Medicine
+1198,10.1161/circulationaha.114.010942,Prevention and Population Care
+1199,10.3389/fimmu.2014.00450,Immunity and Inflammation
+1200,10.1007/s10554-014-0548-z,Cardiovascular
+1201,10.1093/cid/ciu561,Vaccines
+1202,10.2174/1573399810666141010113050,Diabetes
+1203,10.1212/wnl.0000000000000905,Dementia and Cerebrovascular Disease
+1204,10.1093/infdis/jiu579,Vaccines
+1205,10.1016/j.ienj.2014.01.001,Vaccines
+1206,10.1161/strokeaha.114.006609,Prevention and Population Care
+1207,10.1212/wnl.0000000000000942,Dementia and Cerebrovascular Disease
+1208,10.1038/ncomms6068,Genomic Medicine
+1209,10.1016/s0140-6736(14)60975-2,Dementia and Cerebrovascular Disease
+1210,10.1371/journal.pone.0110761,Immunity and Inflammation
+1211,10.1016/j.coi.2014.07.001,Immunity and Inflammation
+1212,10.1101/cshperspect.a017293,Surgical Innovation and Evaluation
+1213,10.1016/j.parkreldis.2014.03.014,Functional Neurosciences and Imaging
+1214,10.1111/cen3.12107,Immunity and Inflammation
+1215,10.1136/bmj.g6616,Patient and Public Involvement
+1216,10.2217/fon.14.222,Cancer
+1217,10.2337/db14-0385,"Diabetes, Genomic Medicine"
+1218,10.1136/annrheumdis-2014-205643,Immunity and Inflammation
+1219,10.1038/onc.2013.460,Cancer
+1220,10.1148/radiol.14131717,Cardiovascular
+1221,10.1074/mcp.m114.038836,Surgical Innovation and Evaluation
+1222,10.1016/j.bbmt.2014.06.011,Blood
+1223,10.1016/j.jaci.2014.04.031,Immunity and Inflammation
+1224,10.1111/bjh.13007,Molecular Diagnostics
+1225,10.1016/j.brat.2014.07.010,Cognitive Health
+1226,10.1111/bdi.12206,Cognitive Health
+1227,10.1136/jmedgenet-2014-102582,Genomic Medicine
+1228,10.1016/j.neuroimage.2014.08.002,Cognitive Health
+1229,10.1177/2167702614527433,Cognitive Health
+1230,10.1111/imm.12327,Vaccines
+1231,10.1038/ng.3097,"Diabetes, Genomic Medicine"
+1232,10.3727/096368914x685320,Diabetes
+1233,10.1126/scitranslmed.3009185,Immunity and Inflammation
+1234,10.1016/j.freeradbiomed.2014.10.575,Cardiovascular
+1235,10.1016/j.celrep.2014.09.045,Immunity and Inflammation
+1236,10.7554/elife.03706,Immunity and Inflammation
+1237,10.3233/jad-141725,Dementia and Cerebrovascular Disease
+1238,10.1523/jneurosci.0203-14.2014,Cognitive Health
+1239,10.1093/brain/awu308,Cardiovascular
+1240,10.1093/cercor/bhu271,Cognitive Health
+1241,10.1111/pace.12531,Cardiovascular
+1242,10.1038/nature13715,Vaccines
+1243,10.1371/journal.pone.0113360,Translational Physiology
+1244,10.1128/mbio.02158-14,Infection
+1245,10.1016/j.ijcard.2014.09.025,Cardiovascular
+1246,10.1111/sji.12237,Immunity and Inflammation
+1247,10.1111/cei.12427,Immunity and Inflammation
+1248,10.1136/thoraxjnl-2013-204993,Translational Physiology
+1249,10.1161/strokeaha.114.007362,Dementia and Cerebrovascular Disease
+1250,10.1109/jbhi.2014.2307913,Translational Physiology
+1251,10.1186/s12913-014-0552-y,Other BRC Funded Work
+1253,10.1186/1471-2407-14-983,"Cancer, Molecular Diagnostics"
+1254,10.1016/j.clon.2014.09.009,Cancer
+1255,10.2337/db14-0319,Genomic Medicine
+1256,10.1007/s10840-014-9943-6,Cardiovascular
+1257,10.1002/jcph.437,Cancer
+1258,10.1016/j.schres.2014.11.001,Dementia and Cerebrovascular Disease
+1259,10.1111/acps.12373,Prevention and Population Care
+1260,10.1016/j.eururo.2014.08.011,Surgical Innovation and Evaluation
+1261,10.1016/s0140-6736(14)60525-0,Surgical Innovation and Evaluation
+1262,10.1016/S0140-6736(14)62007-9,"Cardiovascular, Prevention and Population Care"
+1263,10.1093/fampra/cmu054,Prevention and Population Care
+1264,10.1038/jcbfm.2014.163,Functional Neurosciences and Imaging
+1265,10.1128/aac.03900-14,"Infection, Vaccines"
+1266,10.1016/j.jad.2014.08.022,Cognitive Health
+1267,10.2196/mhealth.3568,Biomedical Informatics and Technology
+1268,10.1152/jn.00051.2014,Cognitive Health
+1269,10.1037/a0037801,Cognitive Health
+1270,10.1007/s11892-014-0559-0,Diabetes
+1271,10.1007/s40279-013-0128-8,Biomedical Informatics and Technology
+1272,10.1073/pnas.1410378111,Cognitive Health
+1273,10.1371/journal.pone.0114323,Immunity and Inflammation
+1274,10.18632/oncotarget.3058,Cancer
+1275,10.1093/jnci/dju402,Genomic Medicine
+1276,10.1038/ncomms6719,Genomic Medicine
+1277,10.1073/pnas.1413339111,Immunity and Inflammation
+1278,10.3389/fmicb.2014.00707,Vaccines
+1279,10.1016/j.cell.2014.12.001,Immunity and Inflammation
+1280,10.1371/journal.pone.0115161,Vaccines
+1281,10.1161/hypertensionaha.114.04662,Cardiovascular
+1282,10.1016/j.nucmedbio.2014.12.012,Surgical Innovation and Evaluation
+1283,10.1056/nejmoa1408617,Genomic Medicine
+1284,10.1371/journal.pone.0115713,Vaccines
+1285,10.1073/pnas.1413935112,Immunity and Inflammation
+1286,10.1016/j.ydbio.2014.12.025,"Cardiovascular, Diabetes"
+1287,10.1016/j.eururo.2014.12.006,Surgical Innovation and Evaluation
+1288,10.1007/s00125-014-3399-1,Diabetes
+1289,10.1111/bpa.12221,Dementia and Cerebrovascular Disease
+1290,10.1016/j.jhin.2015.01.005,Infection
+1291,10.1080/13825585.2014.894958,Dementia and Cerebrovascular Disease
+1292,10.1007/s00429-013-0669-5,Functional Neurosciences and Imaging
+1293,10.1186/s12913-014-0673-3,Other BRC Funded Work
+1294,10.1093/brain/awu374,Cardiovascular
+1295,10.1007/s00395-014-0453-6,Cardiovascular
+1296,10.1111/bpa.12220,Dementia and Cerebrovascular Disease
+1297,10.1016/j.jval.2014.09.004,Prevention and Population Care
+1298,10.1097/md.0000000000000335,Vaccines
+1299,10.1002/art.38873,Immunity and Inflammation
+1300,10.1517/14712598.2015.983897,Vaccines
+1301,10.1136/heartjnl-2014-307227,Prevention and Population Care
+1302,10.1136/bmj.h117,Prevention and Population Care
+1303,10.4049/jimmunol.1401405,Vaccines
+1304,10.1182/blood-2014-10-606491,Blood
+1305,10.1039/c4nr01105h,Surgical Innovation and Evaluation
+1306,10.1093/jnci/djv095,Surgical Innovation and Evaluation
+1307,10.1002/cncr.29029,Surgical Innovation and Evaluation
+1308,10.1111/bju.12483,Surgical Innovation and Evaluation
+1309,10.1038/ncomms6901,Blood
+1310,10.1111/tri.12530,Transplantation
+1311,10.3399/bjgp15x683125,Prevention and Population Care
+1312,10.3174/ajnr.a4208,Cardiovascular
+1313,10.1093/brain/awu328,Functional Neurosciences and Imaging
+1314,10.1136/gutjnl-2013-306571,Genomic Medicine
+1315,10.1016/j.expneurol.2014.10.017,"Cardiovascular, Translational Physiology"
+1316,10.1002/eji.201445016,Immunity and Inflammation
+1317,10.1002/eji.201444686,Immunity and Inflammation
+1318,10.1016/j.cmet.2014.12.014,Genomic Medicine
+1319,10.7554/elife.04605,Functional Neurosciences and Imaging
+1320,10.3389/fnhum.2014.01025,Cognitive Health
+1321,10.1038/ejhg.2014.296,Immunity and Inflammation
+1322,10.1523/jneurosci.3768-14.2015,Functional Neurosciences and Imaging
+1324,10.1371/journal.pone.0116160,Diabetes
+1325,10.1371/journal.pgen.1004876,"Diabetes, Genomic Medicine"
+1327,10.1161/CIRCIMAGING.114.002454,Cardiovascular
+1328,10.1136/thoraxjnl-2014-205958,Translational Physiology
+1329,10.1378/chest.14-1279,Translational Physiology
+1330,10.1038/nrclinonc.2014.199,Cancer
+1331,10.1016/j.mcn.2015.02.009,Dementia and Cerebrovascular Disease
+1332,10.1016/j.ejca.2014.11.018,Cancer
+1333,10.1093/jac/dku383,Prevention and Population Care
+1334,10.1371/journal.ppat.1004658,Vaccines
+1335,10.1097/qco.0000000000000123,Immunity and Inflammation
+1336,10.1016/s1473-3099(14)71057-6,Vaccines
+1337,10.1161/strokeaha.114.006849,Dementia and Cerebrovascular Disease
+1338,10.1001/jama.2014.18574,Prevention and Population Care
+1339,10.1001/jamainternmed.2014.6924,"Cardiovascular, Prevention and Population Care"
+1340,10.1016/j.maturitas.2014.11.017,Blood
+1341,10.1111/apa.12848,Functional Neurosciences and Imaging
+1342,10.1016/j.neuroimage.2014.11.032,Functional Neurosciences and Imaging
+1343,10.1136/practneurol-2014-000870,Functional Neurosciences and Imaging
+1344,10.1111/bjh.13333,Blood
+1345,10.1016/j.jpsychires.2014.11.016,Cognitive Health
+1346,10.1016/j.cpr.2014.11.002,Cognitive Health
+1347,10.1016/j.virol.2014.12.025,Immunity and Inflammation
+1348,10.1053/j.gastro.2014.12.010,Immunity and Inflammation
+1349,10.1371/journal.pone.0114286,Vaccines
+1350,10.7326/m14-0773,"Cardiovascular, Prevention and Population Care"
+1351,10.1016/j.cmet.2015.01.009,Genomic Medicine
+1352,10.1212/wnl.0000000000001309,Dementia and Cerebrovascular Disease
+1353,10.1371/journal.pgen.1004914,Immunity and Inflammation
+1354,10.1002/acn3.175,Functional Neurosciences and Imaging
+1355,10.1016/j.juro.2015.05.066,Surgical Innovation and Evaluation
+1356,10.1126/scitranslmed.3008438,Functional Neurosciences and Imaging
+1357,10.1038/nature14177,Genomic Medicine
+1358,10.1038/nature14132,Genomic Medicine
+1359,10.1186/s12885-015-1048-9,"Cancer, Molecular Diagnostics"
+1360,10.7861/clinmedicine.14-6-78,Infection
+1361,10.1093/hmg/ddu510,Genomic Medicine
+1362,10.1186/s12967-015-0392-5,Vaccines
+1363,10.1111/tri.12541,Diabetes
+1364,10.1016/j.jinf.2015.02.006,Vaccines
+1365,10.1161/strokeaha.114.007624,Dementia and Cerebrovascular Disease
+1366,10.1016/s1473-3099(14)71071-0,Vaccines
+1367,10.1016/s2213-2600(15)00037-5,Vaccines
+1368,10.1016/j.bbmt.2014.11.009,Blood
+1369,10.1097/nen.0000000000000173,Immunity and Inflammation
+1370,10.1177/1545968314543652,Functional Neurosciences and Imaging
+1371,10.1038/nrd4565,Immunity and Inflammation
+1372,10.1111/bjd.13293,Immunity and Inflammation
+1373,10.1111/tri.12563,Transplantation
+1374,10.1161/circresaha.116.304723,Cardiovascular
+1375,10.1016/j.brs.2014.11.003,Functional Neurosciences and Imaging
+1376,10.1002/mrm.25200,Cardiovascular
+1377,10.1002/mds.26072,Functional Neurosciences and Imaging
+1378,10.1080/15265161.2014.999172,Ethics
+1379,10.1016/j.resp.2014.12.019,"Cardiovascular, Translational Physiology"
+1380,10.1016/j.ccell.2015.02.003,Blood
+1381,10.1111/bjh.13379,Blood
+1382,10.1016/j.bbmt.2015.03.010,Infection
+1383,10.3324/haematol.2014.118075,Blood
+1384,10.1016/j.neurobiolaging.2014.12.014,Translational Physiology
+1385,10.1128/aac.04292-14,Infection
+1386,10.1111/bju.13122,Surgical Innovation and Evaluation
+1387,10.1093/hmg/ddu560,Genomic Medicine
+1388,10.1136/bmj.h980,Prevention and Population Care
+1389,10.1093/trstmh/tru206,Vaccines
+1390,10.1080/21645515.2015.1009809,Vaccines
+1391,10.1093/cercor/bhv027,Functional Neurosciences and Imaging
+1392,10.1038/nn1215-1861d,Functional Neurosciences and Imaging
+1393,10.1016/j.neuroimage.2015.02.067,Functional Neurosciences and Imaging
+1394,10.1016/j.eururo.2015.03.017,Surgical Innovation and Evaluation
+1395,10.1111/ajt.13104,Diabetes
+1396,10.1212/wnl.0000000000001370,Immunity and Inflammation
+1397,10.1002/jmv.24554,Immunity and Inflammation
+1398,10.1038/mi.2014.81,Immunity and Inflammation
+1399,10.1039/c5lc00078e,Surgical Innovation and Evaluation
+1400,10.1212/wnl.0000000000001326,Immunity and Inflammation
+1401,10.1128/cvi.00121-15,Vaccines
+1402,10.1136/medethics-2015-102663,Ethics
+1403,10.1523/jneurosci.4609-14.2015,Functional Neurosciences and Imaging
+1404,10.1111/dme.12647,Diabetes
+1405,10.1111/ijs.12484,Prevention and Population Care
+1406,10.1523/jneurosci.4517-14.2015,Cognitive Health
+1407,10.1111/bju.12796,Surgical Innovation and Evaluation
+1409,10.1038/mt.2015.68,Surgical Innovation and Evaluation
+1410,10.1016/s1473-3099(15)70007-1,Vaccines
+1411,10.1093/jac/dku521,"Infection, Vaccines"
+1412,10.1158/1541-7786.mcr-13-0182-t,"Cancer, Surgical Innovation and Evaluation"
+1413,10.1038/eye.2014.326,Surgical Innovation and Evaluation
+1414,10.1093/trstmh/trv010,Immunity and Inflammation
+1415,10.1016/j.jstrokecerebrovasdis.2014.12.004,Prevention and Population Care
+1416,10.1136/medethics-2015-102767,Ethics
+1417,10.3324/haematol.2014.118158,Molecular Diagnostics
+1418,10.1093/jac/dku515,Infection
+1419,10.1128/jcm.03073-14,Infection
+1420,10.1136/bmjopen-2014-007230,Blood
+1421,10.1136/bmjopen-2014-006676,Patient and Public Involvement
+1422,10.1192/bjp.bp.114.153536,Cognitive Health
+1423,10.1002/mrm.25262,Cardiovascular
+1424,10.1007/s00204-015-1504-y,Blood
+1425,10.1111/trf.13075,Blood
+1426,10.1002/14651858.cd009699.pub2,Blood
+1427,10.1038/leu.2015.98,Blood
+1428,10.1007/s00737-014-0473-0,Cognitive Health
+1429,10.1093/annonc/mdu581,Cancer
+1430,10.1093/annonc/mdu449,Cancer
+1431,10.1016/j.neuroimage.2015.01.013,Cognitive Health
+1432,10.3201/eid2104.141545,Immunity and Inflammation
+1433,10.1002/pbc.25385,Prevention and Population Care
+1434,10.1371/journal.pgen.1005061,"Blood, Immunity and Inflammation"
+1435,10.1371/journal.pone.0119532,Immunity and Inflammation
+1436,10.1038/ncomms7691,Molecular Diagnostics
+1437,10.2147/ceg.s48305,Immunity and Inflammation
+1438,10.1093/hmg/ddv117,Genomic Medicine
+1439,10.1371/journal.pone.0119605,Dementia and Cerebrovascular Disease
+1440,10.1016/j.chom.2014.03.003,Immunity and Inflammation
+1441,10.1371/journal.pntd.0003673,Immunity and Inflammation
+1442,10.1136/bmj.h1554,Vaccines
+1443,10.1016/j.jinf.2014.09.009,Immunity and Inflammation
+1444,10.1093/brain/awv093,Functional Neurosciences and Imaging
+1445,10.1136/annrheumdis-2015-207416,Immunity and Inflammation
+1446,10.1186/s12911-015-0148-4,Biomedical Informatics and Technology
+1447,10.1093/ecco-jcc/jjv047,Immunity and Inflammation
+1448,10.1523/jneurosci.3075-14.2015,Functional Neurosciences and Imaging
+1449,10.1007/s00330-015-3832-y,Translational Physiology
+1450,10.1183/09031936.00023215,Translational Physiology
+1451,10.1016/j.ahj.2015.01.011,Cardiovascular
+1452,10.1093/eurheartj/ehv195,Cardiovascular
+1453,10.1038/icb.2015.57,Vaccines
+1454,10.1016/j.jinf.2015.05.006,Vaccines
+1455,10.1371/journal.ppat.1004914,Vaccines
+1456,10.1016/j.jaci.2014.09.006,Immunity and Inflammation
+1457,10.1007/s11934-015-0504-z,Surgical Innovation and Evaluation
+1458,10.1016/j.eururo.2015.05.023,Surgical Innovation and Evaluation
+1459,10.1177/2051415814553650,Surgical Innovation and Evaluation
+1460,10.1016/j.urolonc.2014.12.011,Surgical Innovation and Evaluation
+1461,10.1016/j.eururo.2015.04.036,Surgical Innovation and Evaluation
+1462,10.1038/leu.2014.331,Blood
+1463,10.1111/bcp.12543,Biomedical Informatics and Technology
+1464,10.1136/annrheumdis-2013-204343,Immunity and Inflammation
+1465,10.1002/mds.26134,Functional Neurosciences and Imaging
+1466,10.1007/s00125-015-3598-4,Diabetes
+1467,10.3109/10428194.2015.1122783,Molecular Diagnostics
+1468,10.1016/s0140-6736(15)60027-7,Molecular Diagnostics
+1469,10.1002/mrm.25317,Functional Neurosciences and Imaging
+1470,10.1136/emermed-2014-204221.8,Blood
+1471,10.1016/j.tracli.2015.04.001,Blood
+1472,10.1002/14651858.cd010801.pub2,Blood
+1473,10.1016/j.concog.2015.02.017,Cognitive Health
+1474,10.1093/europace/euv021,Prevention and Population Care
+1475,10.1093/jncimonographs/lgv011,Cancer
+1476,10.1093/ndt/gfv181.06,Biomedical Informatics and Technology
+1478,10.1111/hdi.12306,Biomedical Informatics and Technology
+1479,10.1109/jbhi.2014.2338351,Biomedical Informatics and Technology
+1480,10.1001/jama.2015.3536,Biomedical Informatics and Technology
+1481,10.1097/qad.0000000000000621,Immunity and Inflammation
+1482,10.1136/gutjnl-2015-309598,Immunity and Inflammation
+1483,10.1038/ncomms8146,Immunity and Inflammation
+1484,10.1212/WNL.0000000000001606,Dementia and Cerebrovascular Disease
+1485,10.1016/S0140-6736(15)60692-4,Prevention and Population Care
+1486,10.1016/j.jocn.2015.04.005,Functional Neurosciences and Imaging
+1487,10.1016/j.ajo.2015.06.018,Surgical Innovation and Evaluation
+1488,10.1016/j.ejrad.2015.06.025,Translational Physiology
+1489,10.1093/eurheartj/ehv120,Cardiovascular
+1490,10.1016/j.neuroimage.2015.02.026,"Cardiovascular, Translational Physiology"
+1491,10.1093/jac/dkv021,Infection
+1492,10.1016/j.jinf.2015.04.021,Vaccines
+1493,10.1098/rstb.2014.0341,Vaccines
+1494,10.1371/journal.pntd.0003837,Vaccines
+1495,10.1136/bmjopen-2014-007481,Vaccines
+1496,10.1371/journal.pone.0129555,Vaccines
+1497,10.1097/xeb.0000000000000048,Vaccines
+1498,10.1162/jocn_a_00838,Cognitive Health
+1499,10.1037/xhp0000052,Cognitive Health
+1500,10.1016/j.urolonc.2014.08.007,Surgical Innovation and Evaluation
+1501,10.1002/14651858.cd005341.pub3,Blood
+1502,10.1128/jvi.03627-14,Vaccines
+1503,10.1136/thoraxjnl-2014-206688,Translational Physiology
+1504,10.1016/j.ophtha.2014.12.036,Surgical Innovation and Evaluation
+1505,10.3109/02688697.2014.997670,Functional Neurosciences and Imaging
+1506,10.3233/jpd-140523,Functional Neurosciences and Imaging
+1507,10.1097/ogx.0000000000000284,Genomic Medicine
+1508,10.1002/hbm.22778,Cognitive Health
+1509,10.1161/strokeaha.115.009065,Dementia and Cerebrovascular Disease
+1510,10.7748/ns.2018.e11098,Blood
+1511,10.1093/hmg/ddv235,Blood
+1512,10.1111/bjh.13563,Blood
+1513,10.1002/ijc.29327,Cancer
+1514,10.1093/carcin/bgv053,Cancer
+1515,10.1016/j.jcmg.2015.02.014,Prevention and Population Care
+1516,10.1192/bjp.bp.114.152082,Prevention and Population Care
+1517,10.1159/000370112,Immunity and Inflammation
+1518,10.1111/hex.12376,Prevention and Population Care
+1519,10.1111/dme.12828,Diabetes
+1520,10.1371/journal.ppat.1004954,Immunity and Inflammation
+1521,10.1042/bj20150192,Immunity and Inflammation
+1522,10.1111/jvh.12428,Immunity and Inflammation
+1523,10.1186/s12911-015-0171-5,Biomedical Informatics and Technology
+1524,10.1136/gutjnl-2014-308724,Immunity and Inflammation
+1525,10.1016/j.atherosclerosis.2015.04.086,Prevention and Population Care
+1526,10.1016/j.clim.2015.05.020,Immunity and Inflammation
+1527,10.1136/annrheumdis-2014-206996,Immunity and Inflammation
+1528,10.1016/s1473-3099(15)00068-7,Vaccines
+1529,10.1073/pnas.1506960112,Surgical Innovation and Evaluation
+1530,10.1111/bjh.13619,Blood
+1531,10.1002/14651858.cd007614.pub2,Blood
+1532,10.1111/bjh.13620,Blood
+1533,10.1016/s2213-8587(15)00127-8,"Diabetes, Genomic Medicine"
+1534,10.1371/journal.pgen.1005230,"Diabetes, Genomic Medicine"
+1535,10.1038/jid.2015.63,Immunity and Inflammation
+1536,10.1097/md.0000000000001134,Immunity and Inflammation
+1537,10.1371/journal.pone.0131833,"Cancer, Surgical Innovation and Evaluation"
+1538,10.1186/s13643-015-0081-8,Biomedical Informatics and Technology
+1539,10.1136/bmjopen-2014-007376,Biomedical Informatics and Technology
+1540,10.1186/s12875-015-0289-7,Biomedical Informatics and Technology
+1541,10.1016/s2215-0366(15)00182-0,Patient and Public Involvement
+1542,10.3399/bjgp15x686461,Patient and Public Involvement
+1543,10.1111/ner.12297,Functional Neurosciences and Imaging
+1544,10.1016/j.ajhg.2015.05.002,Genomic Medicine
+1545,10.1111/bjh.13380,Blood
+1546,10.2337/dc14-2769,"Diabetes, Genomic Medicine"
+1547,10.1002/bjs.9838,"Dementia and Cerebrovascular Disease, Prevention and Population Care"
+1548,10.1016/j.amjcard.2015.03.052,Prevention and Population Care
+1549,10.5665/sleep.4802,"Translational Physiology, Cognitive Health"
+1550,10.4067/s0370-41062014000400004,Immunity and Inflammation
+1551,10.1038/ncomms8545,Immunity and Inflammation
+1552,10.1136/bmjopen-2015-007911,"Blood, Translational Physiology"
+1553,10.1016/j.vaccine.2015.06.105,Vaccines
+1554,10.1074/jbc.m115.665695,Immunity and Inflammation
+1555,10.1002/mds.26281,Functional Neurosciences and Imaging
+1556,10.1158/1078-0432.ccr-15-0057,Genomic Medicine
+1557,10.1097/qad.0000000000000675,Immunity and Inflammation
+1558,10.1016/j.psychres.2015.07.059,Cognitive Health
+1559,10.3389/fpsyt.2015.00104,Cognitive Health
+1560,10.1371/journal.pone.0134037,Immunity and Inflammation
+1561,10.1038/mi.2015.69,Immunity and Inflammation
+1562,10.1016/j.ebiom.2015.08.016,Blood
+1563,10.1016/j.brat.2015.05.016,Cognitive Health
+1564,10.1016/j.neuroimage.2015.03.071,Cognitive Health
+1565,10.1177/2040620715586527,Blood
+1566,10.1186/s40900-015-0007-6,Patient and Public Involvement
+1567,10.1186/s12911-015-0186-y,Biomedical Informatics and Technology
+1568,10.1016/j.ijcard.2015.08.211,Prevention and Population Care
+1569,10.1161/jaha.115.002150,Prevention and Population Care
+1570,10.1017/s0033291715000240,Cognitive Health
+1571,10.1159/000435788,Surgical Innovation and Evaluation
+1572,10.1016/j.cmi.2015.03.026,Immunity and Inflammation
+1573,10.1038/bjc.2015.203,Cancer
+1574,10.1016/s1470-2045(15)00091-1,Cancer
+1575,10.1016/j.radonc.2015.08.026,Cancer
+1576,10.1038/bjc.2015.258,Cancer
+1577,10.1016/j.jaci.2014.12.1943,Immunity and Inflammation
+1578,10.1038/cddiscovery.2015.8,Blood
+1579,10.1016/j.ejca.2015.06.131,Cancer
+1580,10.1093/brain/awv161,Functional Neurosciences and Imaging
+1581,10.1038/ismej.2015.149,Infection
+1583,10.1002/ajmg.a.37083,Genomic Medicine
+1584,10.1038/bjc.2015.281,Genomic Medicine
+1585,10.1158/1078-0432.ccr-14-3136,Genomic Medicine
+1586,10.1038/ng.3340,"Diabetes, Genomic Medicine"
+1587,10.1016/j.ahj.2015.05.013,Cardiovascular
+1588,10.1093/hmg/ddv176,Dementia and Cerebrovascular Disease
+1589,10.1080/13825585.2015.1073218,Dementia and Cerebrovascular Disease
+1590,10.2967/jnumed.115.159301,Translational Physiology
+1591,10.1053/j.gastro.2015.07.043,Immunity and Inflammation
+1592,10.1093/eurheartj/ehv353,Cardiovascular
+1593,10.1093/pubmed/fdv112,Vaccines
+1594,10.1126/scitranslmed.aac5745,"Immunity and Inflammation, Vaccines"
+1595,10.1038/ncomms8502,"Diabetes, Genomic Medicine"
+1596,10.1161/JAHA.115.001926,"Cardiovascular, Prevention and Population Care"
+1597,10.1098/rstb.2014.0290,Immunity and Inflammation
+1598,10.1073/pnas.1501956112,Immunity and Inflammation
+1599,10.1111/ijs.12618,Dementia and Cerebrovascular Disease
+1600,10.1038/ejhg.2015.165,Diabetes
+1601,10.1186/s12968-015-0182-5,Cardiovascular
+1602,10.1667/rr14150.1,Cancer
+1603,10.1093/fampra/cmv074,Prevention and Population Care
+1604,10.1370/afm.1845,Prevention and Population Care
+1605,10.1109/jbhi.2015.2483902,Biomedical Informatics and Technology
+1606,10.1177/1049732315603032,Patient and Public Involvement
+1607,10.1200/jco.2014.58.3377,Cancer
+1608,10.1002/bjs.9905,Cancer
+1609,10.1016/j.brs.2015.04.010,Functional Neurosciences and Imaging
+1610,10.1136/bmj.h4865,Prevention and Population Care
+1613,10.1136/archdischild-2015-308723,Vaccines
+1614,10.1371/journal.pbio.1002229,Infection
+1615,10.1016/j.ajhg.2015.07.007,Genomic Medicine
+1616,10.1016/j.ajhg.2015.07.006,Genomic Medicine
+1617,10.1016/j.jcin.2015.04.029,Cardiovascular
+1618,10.1080/19420862.2015.1100787,Blood
+1619,10.1016/j.jcyt.2015.05.015,Blood
+1620,10.1016/j.jbior.2015.09.005,Blood
+1621,10.1371/journal.pone.0136207,Blood
+1622,10.1002/14651858.cd010981.pub2,Blood
+1623,10.1016/j.bbmt.2015.09.004,Blood
+1624,10.1002/hbm.22855,Translational Physiology
+1625,10.1016/s0140-6736(15)00067-7,"Cardiovascular, Prevention and Population Care"
+1626,10.1161/circheartfailure.114.002169,Cardiovascular
+1627,10.1016/j.wneu.2015.08.065,Functional Neurosciences and Imaging
+1628,10.1098/rstb.2014.0241,Immunity and Inflammation
+1629,10.1161/circulationaha.115.016424,"Dementia and Cerebrovascular Disease, Prevention and Population Care"
+1630,10.1371/journal.pntd.0004029,"Blood, Vaccines"
+1631,10.1371/journal.pone.0134353,Vaccines
+1632,10.1172/jci82498,"Diabetes, Genomic Medicine"
+1633,10.1016/j.rbmo.2015.08.017,Genomic Medicine
+1634,10.1371/journal.pone.0137715,Functional Neurosciences and Imaging
+1635,10.7554/elife.08789,Functional Neurosciences and Imaging
+1636,10.1093/eurheartj/ehv442,Cardiovascular
+1637,10.1111/ner.12348,Functional Neurosciences and Imaging
+1638,10.1016/j.jhep.2015.08.038,Diabetes
+1639,10.1080/23279095.2014.1003067,Dementia and Cerebrovascular Disease
+1640,10.1523/jneurosci.2317-15.2015,Functional Neurosciences and Imaging
+1641,10.1111/ggi.12139,Dementia and Cerebrovascular Disease
+1642,10.3389/fmicb.2015.01016,Immunity and Inflammation
+1643,10.1038/hr.2015.102,Cardiovascular
+1644,10.1210/jc.2015-2649,Cardiovascular
+1645,10.1371/journal.pgen.1005535,"Diabetes, Genomic Medicine"
+1646,10.1212/wnl.0000000000002059,Dementia and Cerebrovascular Disease
+1647,10.1016/s1473-3099(15)00062-6,Infection
+1648,10.1378/chest.15-0416,"Cardiovascular, Translational Physiology"
+1649,10.1093/infdis/jiv140,Immunity and Inflammation
+1650,10.1128/jcm.00483-15,Immunity and Inflammation
+1651,10.1093/annonc/mdv308,Cancer
+1652,10.1097/cmr.0000000000000185,Cancer
+1653,10.1007/s10620-015-3884-5,Cancer
+1654,10.1016/s0140-6736(15)00128-2,"Biomedical Informatics and Technology, Prevention and Population Care"
+1655,10.1136/jech-2015-205689,"Cardiovascular, Prevention and Population Care"
+1656,10.1111/tme.12256,Blood
+1657,10.1002/14651858.cd010984.pub2,Blood
+1658,10.1016/j.exphem.2015.06.008,Blood
+1659,10.1002/14651858.cd011577.pub2,Blood
+1660,10.1016/j.ijmedinf.2015.05.003,"Biomedical Informatics and Technology, Prevention and Population Care"
+1661,10.2337/db15-0627,Cardiovascular
+1662,10.1007/s11325-015-1267-y,Translational Physiology
+1663,10.3389/fimmu.2015.00531,Vaccines
+1664,10.1371/journal.pone.0140345,Vaccines
+1665,10.1093/infdis/jiv482,Vaccines
+1666,10.15252/emmm.201505344,Genomic Medicine
+1667,10.1530/erc-15-0081,Genomic Medicine
+1668,10.1093/hmg/ddv228,Genomic Medicine
+1669,10.1371/journal.pgen.1005378,"Cardiovascular, Genomic Medicine"
+1670,10.1016/j.neuroimage.2015.09.071,Cognitive Health
+1671,10.3389/fnins.2015.00395,Cognitive Health
+1672,10.7717/peerj.1372,Cognitive Health
+1673,10.1530/eje-15-0608,Diabetes
+1674,10.1016/j.ultsonch.2015.05.035,Surgical Innovation and Evaluation
+1675,10.1038/sc.2015.199,Patient and Public Involvement
+1676,10.1080/15265161.2015.1088974,Patient and Public Involvement
+1677,10.18632/oncotarget.6392,"Blood, Molecular Diagnostics"
+1678,10.1002/14651858.cd010983.pub2,Blood
+1679,10.2337/db15-0602,Diabetes
+1680,10.1016/j.cortex.2015.10.019,Cognitive Health
+1681,10.1136/bmjopen-2015-007808,Dementia and Cerebrovascular Disease
+1682,10.1161/strokeaha.115.010290,Dementia and Cerebrovascular Disease
+1683,10.1161/strokeaha.115.011021,Dementia and Cerebrovascular Disease
+1684,10.1186/s13073-015-0236-1,Vaccines
+1685,10.1016/j.vaccine.2015.10.126,Vaccines
+1686,10.1093/cid/civ673,Vaccines
+1687,10.1371/journal.pone.0141687,Vaccines
+1688,10.1097/01.ogx.0000473766.71624.99,Genomic Medicine
+1689,10.1055/s-0035-1567821,Genomic Medicine
+1690,10.1158/1055-9965.epi-15-0363,Genomic Medicine
+1691,10.1093/hmg/ddv331,Genomic Medicine
+1692,10.1038/srep16286,Genomic Medicine
+1693,10.1093/jnci/djv219,Genomic Medicine
+1694,10.1210/jc.2015-2928,Diabetes
+1695,10.1016/s0140-6736(15)00803-x,Diabetes
+1696,10.1042/cs20140623,Cardiovascular
+1697,10.1002/hec.3274,Other BRC Funded Work
+1698,10.2217/epi.15.93,Blood
+1699,10.1002/14651858.cd011771.pub2,Blood
+1700,10.1111/nyas.12988,Blood
+1701,10.1136/thoraxjnl-2015-207597,Translational Physiology
+1702,10.1097/inf.0000000000001011,Vaccines
+1703,10.1586/14760584.2016.1114419,Vaccines
+1704,10.7554/elife.09000,Cognitive Health
+1705,10.1016/j.rbmo.2015.09.002,Genomic Medicine
+1706,10.1007/s10689-015-9826-8,Genomic Medicine
+1707,10.1371/journal.pgen.1005716,Genomic Medicine
+1708,10.1186/s13059-015-0856-1,Genomic Medicine
+1709,10.1038/srep17369,Genomic Medicine
+1710,10.1016/s1470-2045(15)00286-7,Genomic Medicine
+1711,10.1016/j.rbmo.2015.07.005,Genomic Medicine
+1712,10.1371/journal.pgen.1005694,Genomic Medicine
+1713,10.2337/dc15-1194,"Biomedical Informatics and Technology, Diabetes"
+1714,10.1111/cge.12721,Genomic Medicine
+1715,10.1038/ng.3437,"Diabetes, Genomic Medicine, Immunity and Inflammation"
+1716,10.1007/s00439-015-1616-8,Genomic Medicine
+1717,10.1016/s0140-6736(15)01225-8,"Biomedical Informatics and Technology, Prevention and Population Care"
+1718,10.3389/fphys.2015.00351,"Functional Neurosciences and Imaging, Cognitive Health"
+1719,10.1002/jbmr.2778,Genomic Medicine
+1720,10.1002/jbmr.2797,Genomic Medicine
+1721,10.1002/eji.201545869,Immunity and Inflammation
+1722,10.1111/cei.12747,Immunity and Inflammation
+1723,10.3978/j.issn.2305-5839.2015.09.12,Immunity and Inflammation
+1724,10.1136/annrheumdis-2015-207490,Immunity and Inflammation
+1725,10.1016/j.resp.2015.12.006,"Cardiovascular, Translational Physiology"
+1726,10.1038/ejhg.2015.209,Immunity and Inflammation
+1727,10.1093/hmg/ddv367,Immunity and Inflammation
+1728,10.1038/ncomms9495,Immunity and Inflammation
+1729,10.1111/dote.12244,Cancer
+1730,10.18632/oncotarget.5631,Cancer
+1731,10.1016/j.ijrobp.2015.08.026,Cancer
+1732,10.1016/j.jhep.2015.12.017,Immunity and Inflammation
+1733,10.1016/j.arcmed.2015.12.003,Immunity and Inflammation
+1734,10.7861/clinmedicine.15-6-s33,Immunity and Inflammation
+1735,10.1016/j.celrep.2015.10.034,Immunity and Inflammation
+1736,10.1136/bmjopen-2015-008748,"Immunity and Inflammation, Vaccines"
+1737,10.1371/journal.ppat.1005177,Immunity and Inflammation
+1739,10.1186/s13104-015-1576-z,Surgical Innovation and Evaluation
+1740,10.1097/sla.0000000000001513,Surgical Innovation and Evaluation
+1741,10.1111/codi.13033,Surgical Innovation and Evaluation
+1742,10.1111/cei.12746,Immunity and Inflammation
+1743,10.1038/ng.3434,Immunity and Inflammation
+1744,10.1186/s12913-015-1246-9,Biomedical Informatics and Technology
+1745,10.1136/jnnp-2015-310972,Functional Neurosciences and Imaging
+1746,10.1016/j.expneurol.2015.12.004,Functional Neurosciences and Imaging
+1747,10.1093/cercor/bhv244,Functional Neurosciences and Imaging
+1748,10.1111/dme.13035,"Biomedical Informatics and Technology, Diabetes"
+1749,10.1111/dme.12987,"Biomedical Informatics and Technology, Diabetes"
+1750,10.1177/1545968315613864,Functional Neurosciences and Imaging
+1751,10.1016/j.neuroimage.2015.10.090,"Cognitive Health, Functional Neurosciences and Imaging"
+1752,10.1177/1932296814556506,Biomedical Informatics and Technology
+1753,10.1177/1932296814542271,Biomedical Informatics and Technology
+1754,10.1016/j.orcp.2015.10.001,Translational Physiology
+1755,10.1016/j.healthpol.2015.09.005,Research Education and Training
+1756,10.1126/scitranslmed.aad0689,Research Education and Training
+1757,10.1016/s2213-2600(15)00466-x,Infection
+1758,10.1002/mrm.26040,Cardiovascular
+1759,10.1136/bmjopen-2015-009282,Cardiovascular
+1760,10.1016/j.jcmg.2015.08.018,Cardiovascular
+1761,10.1016/j.jhep.2015.10.009,Cardiovascular
+1762,10.1016/j.jacc.2015.09.071,Cardiovascular
+1763,10.1161/circep.114.002504,Cardiovascular
+1764,10.1016/j.chembiol.2015.07.017,Immunity and Inflammation
+1765,10.1038/tpj.2014.51,Molecular Diagnostics
+1766,10.1038/leu.2015.129,"Blood, Cancer, Molecular Diagnostics"
+1767,10.1182/blood-2015-05-647578,Genomic Medicine
+1769,10.1182/blood-2015-10-674572,"Blood, Cancer, Molecular Diagnostics"
+1770,10.1038/leu.2013.381,"Blood, Molecular Diagnostics"
+1772,10.1038/ng.3304,"Cancer, Genomic Medicine, Molecular Diagnostics"
+1773,10.1038/bmt.2015.215,Blood
+1774,10.1007/s12687-016-0266-4,Genomic Medicine
+1775,10.7554/elife.12047,"Cardiovascular, Translational Physiology"
+1776,10.1136/bcr-2015-213573,Blood
+1777,10.1016/j.celrep.2015.12.003,Blood
+1778,10.1074/jbc.m115.696401,Genomic Medicine
+1779,10.1136/jmedgenet-2015-103393,Genomic Medicine
+1780,10.1111/cge.12773,Genomic Medicine
+1781,10.1183/13993003.congress-2015.pa2413,Translational Physiology
+1782,10.1136/bmjopen-2015-010150,Translational Physiology
+1783,10.1136/bmjresp-2015-000110,Translational Physiology
+1784,10.3399/bjgp16x683785,Translational Physiology
+1785,10.1016/j.metabol.2016.01.001,Diabetes
+1786,10.4084/mjhid.2015.037,Blood
+1787,10.1182/blood-2015-01-621631,Blood
+1788,10.1182/blood-2016-01-694331,Blood
+1789,10.1056/nejmoa1507471,Blood
+1790,10.1111/bjh.14021,Blood
+1791,10.7748/ns.2017.e11006,Blood
+1792,10.1136/bmjopen-2015-009702,Biomedical Informatics and Technology
+1793,10.1001/jama.2015.18023,"Biomedical Informatics and Technology, Prevention and Population Care"
+1794,10.1136/heartjnl-2015-308558,"Biomedical Informatics and Technology, Prevention and Population Care"
+1795,10.1093/eurheartj/ehv322,Prevention and Population Care
+1796,10.1093/eurheartj/ehv742,Prevention and Population Care
+1797,10.1136/bmjopen-2015-009285,Patient and Public Involvement
+1798,10.1136/bmjopen-2015-010412,"Immunity and Inflammation, Patient and Public Involvement"
+1799,10.1371/journal.pgen.1005223,Immunity and Inflammation
+1800,10.1007/s00109-014-1212-8,Vaccines
+1801,10.1111/ajt.13607,Immunity and Inflammation
+1802,10.1080/15548627.2015.1100356,Immunity and Inflammation
+1803,10.1101/pdb.top070391,Immunity and Inflammation
+1804,10.1038/cddiscovery.2015.36,Immunity and Inflammation
+1806,10.1136/annrheumdis-2015-208640,Immunity and Inflammation
+1807,10.1136/gutjnl-2015-310382,Immunity and Inflammation
+1808,10.1016/j.clim.2015.12.003,Immunity and Inflammation
+1810,10.1126/scitranslmed.aad6833,Immunity and Inflammation
+1811,10.1111/ced.12802,Immunity and Inflammation
+1812,10.1056/nejmoa1411627,Vaccines
+1813,10.4103/0974-777x.170501,Immunity and Inflammation
+1814,10.1016/j.cmi.2016.03.006,Vaccines
+1815,10.1371/journal.pone.0154153,Vaccines
+1816,10.1371/journal.pone.0144799,Immunity and Inflammation
+1817,10.4049/jimmunol.1501102,Immunity and Inflammation
+1818,10.1136/thoraxjnl-2014-206423,Immunity and Inflammation
+1819,10.1136/annrheumdis-2014-206405,Immunity and Inflammation
+1820,10.1136/bmj.h644,Immunity and Inflammation
+1821,10.1016/j.jaut.2016.03.009,Immunity and Inflammation
+1822,10.1097/aln.0000000000000924,Functional Neurosciences and Imaging
+1823,10.1016/j.clinph.2016.01.015,Functional Neurosciences and Imaging
+1824,10.1371/journal.pone.0149224,Functional Neurosciences and Imaging
+1825,10.1523/jneurosci.1742-15.2016,Functional Neurosciences and Imaging
+1826,10.1016/j.nicl.2015.04.003,"Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging, Cognitive Health"
+1827,10.1126/scitranslmed.aad5651,Functional Neurosciences and Imaging
+1828,10.4172/2469-9756.1000114,Cancer
+1829,10.1212/wnl.0000000000002528,Dementia and Cerebrovascular Disease
+1830,10.1093/ageing/afv177,Dementia and Cerebrovascular Disease
+1831,10.1212/wnl.0000000000002208,Immunity and Inflammation
+1832,10.18632/oncotarget.6981,Cancer
+1833,10.1007/s11523-015-0410-9,Cancer
+1834,10.1007/s00330-016-4227-4,Cancer
+1835,10.1158/1078-0432.ccr-15-1489,Cancer
+1836,10.1158/1078-0432.ccr-15-2218,Cancer
+1837,10.18632/oncotarget.6770,Cancer
+1838,10.1007/s00109-015-1377-9,Cancer
+1839,10.1017/s0033291715002007,Cognitive Health
+1840,10.1093/brain/awv334,"Functional Neurosciences and Imaging, Cognitive Health"
+1841,10.1016/j.neuroimage.2015.09.021,"Functional Neurosciences and Imaging, Cognitive Health"
+1842,10.1167/16.3.22,Cognitive Health
+1843,10.1111/desc.12297,Cognitive Health
+1844,10.1177/0269881115626336,Translational Physiology
+1845,10.1136/bmjopen-2015-010337,Patient and Public Involvement
+1846,10.1016/j.socscimed.2016.02.037,Patient and Public Involvement
+1847,10.1016/j.clon.2015.11.002,"Cancer, Translational Physiology"
+1848,10.4049/jimmunol.1502462,"Immunity and Inflammation, Vaccines"
+1849,10.1186/s12977-016-0242-4,Immunity and Inflammation
+1851,10.1007/s40121-015-0102-x,Immunity and Inflammation
+1852,10.1002/cyto.b.21360,Immunity and Inflammation
+1853,10.2217/fvl.15.92,Immunity and Inflammation
+1854,10.1016/j.jaci.2015.09.048,Immunity and Inflammation
+1855,10.1002/art.39515,Immunity and Inflammation
+1856,10.1002/cam4.563,Cancer
+1857,10.1016/j.vaccine.2016.01.062,Vaccines
+1858,10.1088/0967-3334/37/4/610,Biomedical Informatics and Technology
+1859,10.1111/jan.12959,Biomedical Informatics and Technology
+1860,10.1186/s12911-016-0257-8,Biomedical Informatics and Technology
+1861,10.1136/bmjopen-2015-008769,Biomedical Informatics and Technology
+1862,10.1161/circresaha.115.307856,Cardiovascular
+1863,10.1136/bmjopen-2015-009022,Prevention and Population Care
+1864,10.1002/mrm.26152,Cardiovascular
+1865,10.1111/bcp.12882,Cardiovascular
+1866,10.1136/heartjnl-2015-309166,Cardiovascular
+1867,10.1161/circimaging.115.004430,"Cardiovascular, Vaccines"
+1868,10.1186/s12968-016-0227-4,Cardiovascular
+1869,10.1002/jmri.25146,Cardiovascular
+1870,10.1016/j.jcmg.2015.11.008,Cardiovascular
+1871,10.1002/mrm.26106,Cardiovascular
+1872,10.1038/sj.bdj.2015.496,Prevention and Population Care
+1873,10.1016/j.jacc.2016.02.026,Health Economics
+1874,10.1152/japplphysiol.00179.2015,Translational Physiology
+1875,10.1093/europace/euv122,Translational Physiology
+1876,10.1136/archdischild-2015-308928,Vaccines
+1877,10.1186/s12910-015-0085-x,Vaccines
+1878,10.1073/pnas.1519690113,Vaccines
+1879,10.1016/j.jaci.2015.12.1303,Vaccines
+1880,10.1371/journal.pone.0148840,Vaccines
+1881,10.1016/j.vaccine.2016.02.036,Vaccines
+1882,10.1186/s12967-016-0819-7,Vaccines
+1883,10.1371/journal.pone.0150576,Vaccines
+1884,10.1007/s12038-016-9588-y,Vaccines
+1885,10.1097/inf.0000000000001056,Vaccines
+1886,10.1111/tmi.12668,Infection
+1887,10.1136/bmjopen-2015-010790,Vaccines
+1888,10.1001/jama.2016.4218,Vaccines
+1889,10.1016/s0140-6736(15)00257-3,Prevention and Population Care
+1890,10.1186/s12916-015-0507-0,Prevention and Population Care
+1891,10.1016/s0140-6736(15)60127-1,Prevention and Population Care
+1892,10.1136/gutjnl-2015-309861.634,Prevention and Population Care
+1893,10.1177/2047487315618784,Prevention and Population Care
+1894,10.1093/fampra/cmv092,Prevention and Population Care
+1895,10.1016/s0140-6736(15)00059-8,Prevention and Population Care
+1896,10.1186/s12916-016-0550-5,Prevention and Population Care
+1897,10.1016/j.jash.2015.03.108,Prevention and Population Care
+1898,10.1136/bmj.i708,Prevention and Population Care
+1899,10.1161/hypertensionaha.115.07108,Cardiovascular
+1900,10.3399/bjgp16x684769,Prevention and Population Care
+1901,10.1016/s0140-6736(16)00620-6,"Other BRC funded work, Prevention and Population Care"
+1902,10.1016/s2215-0366(15)00231-x,Prevention and Population Care
+1903,10.1037/ccp0000079,Prevention and Population Care
+1904,10.4018/ijrqeh.2017070103,Prevention and Population Care
+1906,10.1136/openhrt-2015-000330,Prevention and Population Care
+1907,10.1186/s12968-015-0174-5,"Cardiovascular, Prevention and Population Care"
+1908,10.1093/ehjci/jev043,Prevention and Population Care
+1909,10.1093/eurheartj/ehv172,Prevention and Population Care
+1910,10.1093/eurheartj/ehv098,Prevention and Population Care
+1911,10.1093/ehjqcco/qcv013,Prevention and Population Care
+1912,10.1212/wnl.0000000000002306,Dementia and Cerebrovascular Disease
+1913,10.1136/jnnp-2015-311947,Dementia and Cerebrovascular Disease
+1914,10.1161/strokeaha.115.011218,Dementia and Cerebrovascular Disease
+1915,10.1093/ageing/afv134,Dementia and Cerebrovascular Disease
+1916,10.1002/mrm.25713,Cardiovascular
+1917,10.1016/j.jcmg.2014.12.025,Cardiovascular
+1918,10.1038/ejhg.2015.31,Genomic Medicine
+1919,10.1136/bmjopen-2015-009508,Biomedical Informatics and Technology
+1920,10.1016/j.fertnstert.2014.12.123,Genomic Medicine
+1921,10.1212/nxi.0000000000000088,Functional Neurosciences and Imaging
+1922,10.1002/path.4520,Genomic Medicine
+1923,10.1016/j.rbmo.2015.05.008,Genomic Medicine
+1924,10.1177/0004563215597944,Genomic Medicine
+1925,10.3389/fneur.2015.00241,Functional Neurosciences and Imaging
+1926,10.1109/transducers.2015.7180863,Functional Neurosciences and Imaging
+1927,10.1158/1078-0432.ccr-15-2903,Molecular Diagnostics
+1928,10.1172/jci85715,Translational Physiology
+1929,10.1056/nejmoa1509981,Molecular Diagnostics
+1930,10.1056/nejmoa1509388,Molecular Diagnostics
+1931,10.1016/j.rbmo.2015.05.018,Genomic Medicine
+1932,10.1517/21678707.2015.1046434,Surgical Innovation and Evaluation
+1933,10.1016/j.visres.2015.03.001,Surgical Innovation and Evaluation
+1934,10.1073/pnas.1521325113,Surgical Innovation and Evaluation
+1935,10.1038/nature14347,Surgical Innovation and Evaluation 
+1936,10.1159/000444651,Surgical Innovation and Evaluation
+1937,10.1016/s0140-6736(15)01309-4,Surgical Innovation and Evaluation
+1938,10.1016/j.ejvs.2016.01.002,Surgical Innovation and Evaluation
+1939,10.1016/j.ejvs.2015.11.002,Surgical Innovation and Evaluation
+1940,10.1900/rds.2015.12.330,Diabetes
+1941,10.1016/j.ejvs.2015.09.022,Surgical Innovation and Evaluation
+1942,10.1002/jso.24109,Surgical Innovation and Evaluation
+1943,10.1007/s11934-015-0573-z,Surgical Innovation and Evaluation
+1944,10.1038/nrc4019,Surgical Innovation and Evaluation
+1945,10.1128/jcm.00378-15,Infection
+1946,10.1192/bjp.bp.114.152363,Cognitive Health
+1947,10.1136/bmj.h3441,Infection
+1948,10.1378/chest.15-1130,Infection
+1949,10.1038/ncomms11465,Infection
+1950,10.1136/thoraxjnl-2015-207688,Infection
+1951,10.1128/genomea.01649-15,Infection
+1952,10.1038/nrmicro.2015.13,Infection
+1953,10.1016/j.jad.2015.02.026,Cognitive Health
+1954,10.3389/fpsyt.2015.00003,Cognitive Health
+1955,10.1177/0956797615583071,Cognitive Health
+1956,10.1177/0020764015597951,Cognitive Health
+1957,10.1007/s10608-015-9671-y,Cognitive Health
+1958,10.1111/cdev.12396,Cognitive Health
+1959,10.1016/j.jad.2015.08.042,Cognitive Health
+1960,10.1016/j.tics.2015.08.003,Cognitive Health
+1961,10.1098/rsif.2015.0670,Cognitive Health
+1962,10.1161/strokeaha.115.009078,Dementia and Cerebrovascular Disease
+1963,10.1177/0020764015615905,Cognitive Health
+1964,10.1038/tp.2015.207,Cognitive Health
+1965,10.1146/annurev-clinpsy-021815-092925,Cognitive Health
+1966,10.1093/hmg/ddv637,Dementia and Cerebrovascular Disease
+1967,10.1097/inf.0000000000000782,Vaccines
+1968,10.1016/j.vaccine.2015.12.021,Vaccines
+1969,10.1002/eji.201545890,Vaccines
+1970,10.1093/ofid/ofv144,Vaccines
+1971,10.1037/pas0000327,Prevention and Population Care
+1972,10.1097/inf.0000000000001237,Vaccines
+1973,10.1084/jem.20151025,Vaccines
+1974,10.1016/j.jacc.2016.03.543,Cardiovascular
+1975,10.1161/circulationaha.115.017119,Cardiovascular
+1976,10.1093/europace/euw102,Cardiovascular
+1977,10.1161/hypertensionaha.116.07431,Cardiovascular
+1978,10.1056/nejmoa1507750,Cardiovascular
+1979,10.1016/j.jhin.2014.12.021,Infection
+1980,10.1136/bmj.h3413,Infection
+1981,10.1371/journal.pgen.1005421,Infection
+1982,10.1128/mbio.02039-15,Infection
+1983,10.1128/mbio.02162-15,Infection
+1984,10.1128/aem.03821-15,"Genomic Medicine, Infection"
+1985,10.1016/s1473-3099(16)00010-4,Infection
+1986,10.3310/hta19800,Health Economics
+1987,10.1016/j.ypmed.2015.12.012,Health Economics
+1988,10.1002/mds.26423,Health Economics
+1989,10.1186/s13054-015-0987-5,Health Economics
+1990,10.1038/nri.2016.43,Vaccines
+1991,10.1093/eurheartj/ehw229,Prevention and Population Care
+1992,10.1136/heartjnl-2016-309642,Cardiovascular
+1993,10.3389/fphys.2016.00231,"Cardiovascular, Translational Physiology"
+1994,10.1542/peds.2016-0050,Cardiovascular
+1995,10.1161/circulationaha.115.017888,Cardiovascular
+1996,10.1183/13993003.00321-2016,Translational Physiology
+1997,10.1148/radiol.2016152629,Cardiovascular
+1998,10.1161/strokeaha.116.012658,Prevention and Population Care
+1999,10.1161/strokeaha.115.011625,Dementia and Cerebrovascular Disease
+2000,10.1177/1747493016632237,Surgical Innovation and Evaluation
+2001,10.1177/1747493016632238,Dementia and Cerebrovascular disease
+2002,10.1161/strokeaha.115.011545,Dementia and Cerebrovascular Disease
+2003,10.1161/strokeaha.115.011328,Dementia and Cerebrovascular Disease
+2004,10.1212/wnl.0000000000002263,Dementia and Cerebrovascular Disease
+2005,10.1161/strokeaha.115.009816,Dementia and Cerebrovascular Disease
+2006,10.1016/s1474-4422(15)00132-5,Dementia and Cerebrovascular Disease
+2007,10.1161/strokeaha.115.009387,Dementia and Cerebrovascular Disease
+2008,10.1161/strokeaha.114.008540,Dementia and Cerebrovascular Disease
+2009,10.1161/strokeaha.114.008043,Dementia and Cerebrovascular Disease
+2010,10.1161/strokeaha.114.007930,Dementia and Cerebrovascular Disease
+2011,10.1161/strokeaha.114.007221,Dementia and Cerebrovascular Disease
+2012,10.1161/strokeaha.115.012411,Dementia and Cerebrovascular Disease
+2013,10.1136/bmj.i2648,Prevention and Population Care
+2014,10.3233/jad-150862,"Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging, Cognitive Health"
+2015,10.1136/jnnp-2015-312945,Dementia and Cerebrovascular Disease
+2016,10.1016/j.jns.2015.08.392,Dementia and Cerebrovascular Disease
+2018,10.1016/j.cpr.2016.04.010,Cognitive Health
+2019,10.1016/j.jad.2016.06.049,Cognitive Health
+2020,10.1111/resp.12798,Translational Physiology
+2021,10.1111/bjh.14066,Molecular Diagnostics
+2022,10.1111/liv.13163,Diabetes
+2023,10.1016/j.coi.2016.05.004,Immunity and Inflammation
+2024,10.4049/jimmunol.1500619,Immunity and Inflammation
+2025,10.1038/nm.4100,Immunity and Inflammation
+2026,10.3201/eid2204.151812,Infection
+2027,10.1038/ncomms11653,Immunity and Inflammation
+2028,10.1084/jem.20151517,Immunity and Inflammation
+2029,10.1038/nri.2016.38,Immunity and Inflammation
+2030,10.1038/ajg.2016.40,Immunity and Inflammation
+2032,10.1007/s00125-016-3920-9,Diabetes
+2033,10.1093/infdis/jiv592,Immunity and Inflammation
+2034,10.1080/19382014.2016.1182276,"Diabetes, Genomic Medicine"
+2035,10.1002/hep.28294,Immunity and Inflammation
+2036,10.3233/jad-141764,Dementia and Cerebrovascular Disease
+2037,10.1371/journal.pone.0114050,Dementia and Cerebrovascular Disease
+2038,10.1016/j.neurobiolaging.2016.03.002,Dementia and Cerebrovascular Disease
+2039,10.1177/0271678x15606722,Dementia and Cerebrovascular Disease
+2040,10.1007/s00262-016-1831-8,Vaccines
+2041,10.1016/j.vaccine.2016.06.051,Vaccines
+2042,10.1093/infdis/jiw244,Vaccines
+2043,10.1371/journal.pntd.0004766,Vaccines
+2044,10.1186/s13073-016-0337-5,Vaccines
+2045,10.1016/j.vaccine.2016.06.024,Vaccines
+2046,10.1093/brain/aww075,Functional Neurosciences and Imaging
+2047,10.1093/brain/aww048,Functional Neurosciences and Imaging
+2048,10.1016/s0140-6736(16)30468-8,Dementia and Cerebrovascular Disease
+2049,10.1111/hex.12479,Patient and Public Involvement
+2050,10.1016/j.celrep.2016.03.091,Diabetes
+2051,10.2337/db15-1489,Diabetes
+2052,10.1016/j.vaccine.2016.06.038,Vaccines
+2053,10.1056/nejmc1511646,"Blood, Genomic Medicine"
+2054,10.1007/s00439-016-1652-z,Genomic Medicine
+2055,10.1002/humu.23010,Genomic Medicine
+2056,10.1016/j.mod.2017.04.122,Genomic Medicine
+2057,10.1038/nature19105,Genomic Medicine
+2058,10.1038/leu.2016.134,Genomic Medicine
+2059,10.1200/jco.2016.66.5844,Genomic Medicine
+2060,10.1093/jac/dkw177,Infection
+2061,10.1038/srep20596,Cancer
+2062,10.1002/eji.201545969,Immunity and Inflammation
+2063,10.1111/bjh.14177,"Cancer, Molecular Diagnostics"
+2064,10.1007/s40271-016-0172-1,Molecular Diagnostics
+2065,10.1093/ije/dyw053,Prevention and Population Care
+2066,10.1056/nejmc1509501,Surgical Innovation and Evaluation
+2067,10.1167/tvst.5.3.10,Surgical Innovation and Evaluation
+2068,10.1097/01.ogx.0000525563.08750.03,Cancer
+2069,10.1016/j.stemcr.2016.01.013,"Dementia and Cerebrovascular disease, Functional Neurosciences and Imaging"
+2070,10.1056/NEJMoa1507652,Cardiovascular
+2071,10.1038/ncomms9016,Genomic Medicine
+2073,10.1038/ncomms8208,Blood
+2074,10.2337/db14-0988,Genomic Medicine
+2075,10.1093/hmg/ddv472,Genomic Medicine
+2076,10.1093/ije/dyv094,Diabetes
+2077,10.1007/s00109-015-1296-9,Diabetes
+2078,10.1038/ncomms10495,Diabetes
+2079,10.1038/ng.3300,Diabetes
+2081,10.2337/db14-1456,Genomic Medicine
+2082,10.2337/db16-0361,"Diabetes, Genomic Medicine"
+2083,10.1136/heartjnl-2015-309201,Cardiovascular
+2084,10.1108/jhom-02-2015-0027,Patient and Public Involvement
+2085,10.1016/s1474-4422(16)30139-9,Health Economics
+2086,10.1016/s2213-8587(15)00377-0,Prevention and Population Care
+2087,10.3310/pgfar04030,Dementia and Cerebrovascular disease
+2088,10.1177/2047487316651982,Prevention and Population Care
+2089,10.3399/bjgp16x686149,Prevention and Population Care
+2090,10.1371/journal.pone.0158765,Prevention and Population Care
+2091,10.1186/s13034-016-0110-y,Patient and Public Involvement
+2092,10.1128/aac.00840-16,Infection
+2093,10.1016/s1473-3099(16)30157-8,Infection
+2094,10.1016/j.cmi.2015.10.034,Infection
+2095,10.1136/bmjopen-2015-010969,Infection
+2096,10.1016/s2214-109x(16)30168-1,Prevention and Population Care
+2097,10.1136/heartjnl-2016-309706,Prevention and Population Care
+2098,10.1016/S2352-3018(16)30087-X,Prevention and Population Care
+2099,10.1136/heartjnl-2015-309223,Prevention and Population Care
+2100,10.1007/s40140-016-0171-8,Prevention and Population Care
+2101,10.1111/his.13024,Molecular Diagnostics
+2103,10.1371/journal.pone.0162809,"Cardiovascular, Genomic Medicine"
+2104,10.1177/1747493016661565,Dementia and Cerebrovascular Disease
+2105,10.1016/j.neuroimage.2016.07.018,"Cognitive Health, Functional Neurosciences and Imaging"
+2106,10.1016/j.jneumeth.2016.08.002,Functional Neurosciences and Imaging
+2107,10.1073/pnas.1523597113,Dementia and Cerebrovascular Disease
+2108,10.1093/brain/aww214,Dementia and Cerebrovascular Disease
+2109,10.1259/bjr.20160110,"Cancer, Functional Neurosciences and Imaging"
+2110,10.1016/j.diabres.2016.07.004,Diabetes
+2111,10.1093/brain/aww124,"Cognitive Health, Functional Neurosciences and Imaging"
+2112,10.1016/j.cortex.2016.06.002,Cognitive Health
+2113,10.1037/pag0000105,Cognitive Health
+2114,10.1162/jocn_a_00952,Cognitive Health
+2115,10.1016/j.gaitpost.2016.08.028,Cognitive Health
+2116,10.1136/bmjresp-2016-000138,Translational Physiology
+2117,10.1111/resp.12573,Translational Physiology
+2118,10.1126/sciadv.1600560,Translational Physiology
+2119,10.1016/j.antiviral.2016.08.002,"Immunity and Inflammation, Vaccines"
+2120,10.1186/s13073-016-0345-5,Immunity and Inflammation
+2121,10.1084/jem.20160258,Immunity and Inflammation
+2122,10.1016/j.jaad.2016.06.016,Immunity and Inflammation
+2123,10.1016/j.dib.2016.08.046,Immunity and Inflammation
+2124,10.1136/annrheumdis-2016-209512,Immunity and Inflammation
+2125,10.1128/jcm.00330-16,Immunity and Inflammation
+2126,10.1002/hep.28568,Immunity and Inflammation
+2127,10.3390/vaccines4030027,Immunity and Inflammation
+2129,10.1038/nrgastro.2016.132,Immunity and Inflammation
+2130,10.1016/j.antiviral.2016.07.016,Immunity and Inflammation
+2131,10.1186/s12879-016-1656-2,Immunity and Inflammation
+2132,10.1111/cei.12778,Immunity and Inflammation
+2133,10.1016/j.jaci.2016.04.059,Immunity and Inflammation
+2134,10.1093/ecco-jcc/jjw159,Immunity and Inflammation
+2135,10.1016/s2213-2600(16)00046-1,Immunity and Inflammation
+2136,10.1002/acn3.311,Immunity and Inflammation
+2137,10.1007/s10608-016-9795-8,Cognitive Health
+2138,10.1016/j.msard.2016.02.014,Immunity and Inflammation
+2139,10.1136/jnnp-2015-312601,Immunity and Inflammation
+2140,10.1016/B978-0-444-63432-0.00009-8,Immunity and Inflammation
+2141,10.1111/epi.13356,Dementia and Cerebrovascular Disease
+2142,10.1111/dmcn.13090,Immunity and Inflammation
+2143,10.1016/s1474-4422(15)00401-9,Immunity and Inflammation
+2144,10.1136/annrheumdis-2015-207544,Immunity and Inflammation
+2145,10.1212/wnl.0000000000002807,Genomic Medicine
+2146,10.1016/j.ajhg.2016.05.019,Genomic Medicine
+2147,10.1093/hmg/ddw227,Genomic Medicine
+2148,10.1038/nature18642,Genomic Medicine
+2149,10.1038/nature19057,Genomic Medicine
+2150,10.1002/ajmg.a.37755,Genomic Medicine
+2151,10.1038/gim.2016.90,"Cardiovascular, Genomic Medicine"
+2152,10.1038/ng.3632,"Diabetes, Genomic Medicine"
+2153,10.3324/haematol.2016.144063,Genomic Medicine
+2154,10.1038/nature19806,Genomic Medicine
+2155,10.1016/j.ajhg.2016.06.032,Genomic Medicine
+2156,10.1038/gim.2016.109,Genomic Medicine
+2158,10.1167/iovs.15-18364,Surgical Innovation and Evaluation
+2159,10.1038/srep29784,Surgical Innovation and Evaluation
+2160,10.1089/hgtb.2016.086,Surgical Innovation and Evaluation
+2161,10.1016/j.ebiom.2016.06.048,"Cancer, Surgical Innovation and Evaluation"
+2162,10.1159/000447713,Blood
+2163,10.1146/annurev-nutr-071715-050731,Blood
+2164,10.1016/j.ccell.2016.06.020,Blood
+2165,10.1111/hex.12500,Other BRC Funded Work
+2166,10.1186/s12014-016-9126-9,Blood
+2167,10.1111/tme.12264,Blood
+2168,10.1111/tme.12219,Blood
+2169,10.1111/tme.12295,Blood
+2170,10.1111/aogs.12862,Prevention and Population Care
+2171,10.1111/trf.13696,Blood
+2172,10.1136/bmjopen-2016-011752,Blood
+2173,10.1111/vox.12435,Blood
+2174,10.1056/nejmc1515969,Blood
+2175,10.1001/jamaoncol.2016.2466,Blood
+2176,10.1016/j.jclinepi.2016.05.008,Other BRC Funded Work
+2177,10.1111/trf.13789,Other BRC Funded Work
+2178,10.1002/jcb.25488,Blood
+2179,10.1158/0008-5472.can-15-3062,Blood
+2180,10.1016/j.jbior.2016.08.001,Blood
+2181,10.1016/j.ebiom.2016.07.017,Cancer
+2182,10.1016/j.ejca.2016.05.005,Cancer
+2183,10.1038/onc.2016.256,Cancer
+2184,10.1634/theoncologist.2015-0014,Cancer
+2185,10.1056/nejmsb1607705,Cancer
+2186,10.1002/ccd.26782,Cardiovascular
+2187,10.1161/jaha.116.003515,Cardiovascular
+2189,10.1161/circulationaha.116.021594,Cardiovascular
+2190,10.1016/j.jacc.2016.03.597,Cardiovascular
+2191,10.1186/s12961-016-0126-z,Cardiovascular
+2192,10.1002/jmri.25392,Cardiovascular
+2193,10.1161/circulationaha.116.022931,Cardiovascular
+2194,10.1186/s12872-016-0355-7,Cardiovascular
+2195,10.1161/hypertensionaha.116.07586,Cardiovascular
+2196,10.1002/nbm.3886,"Cardiovascular, Functional Neurosciences and Imaging"
+2197,10.1093/eurheartj/ehw215,Cardiovascular
+2198,10.5083/ejcm.20424884.147,Cardiovascular
+2199,10.1371/journal.pone.0160235,Cognitive Health
+2200,10.1016/j.neuroimage.2016.05.031,Functional Neurosciences and Imaging
+2201,10.7554/elife.15292,Cognitive Health
+2202,10.1016/j.neurobiolaging.2016.07.007,Functional Neurosciences and Imaging
+2203,10.1002/stem.2388,Functional Neurosciences and Imaging
+2204,10.1542/peds.2017-2475rrrr,Immunity and Inflammation
+2205,10.1038/srep33598,Cardiovascular
+2206,10.1371/journal.ppat.1005782,Immunity and Inflammation
+2207,10.1371/journal.ppat.1005661,Immunity and Inflammation
+2208,10.1136/gutjnl-2016-311433,Immunity and Inflammation
+2209,10.1038/mt.2016.83,Vaccines
+2210,10.1016/j.vaccine.2016.09.007,Vaccines
+2211,10.1001/jama.2016.11236,Vaccines
+2212,10.1542/peds.2015-3945,Vaccines
+2213,10.1016/s1473-3099(16)30201-8,Vaccines
+2214,10.1371/journal.pntd.0004926,Vaccines
+2215,10.1136/bmjopen-2016-011680,Vaccines
+2216,10.1016/j.coi.2016.05.014,Vaccines
+2217,10.1186/s12889-016-3672-y,Prevention and Population Care
+2218,10.1186/s12913-016-1555-7,Prevention and Population Care
+2219,10.3324/haematol.2016.142141,Blood
+2220,10.1371/journal.pone.0162136,Surgical Innovation and Evaluation
+2221,10.1016/j.chest.2016.07.012,Translational Physiology
+2222,10.1136/bmjopen-2016-013401,"Immunity and Inflammation, patient and public involvement"
+2223,10.1080/0142159x.2016.1210109,Patient and Public Involvement
+2224,10.1111/hex.12519,Patient and Public Involvement
+2225,10.1159/000450546,"Cognitive Health, Dementia and Cerebrovascular Disease, Functional Neurosciences and Imaging"
+2226,10.1111/bdi.12453,Cognitive Health
+2227,10.1016/j.cortex.2016.08.013,Cognitive Health
+2228,10.1371/journal.pone.0164174,Cognitive Health
+2229,10.1016/j.psychres.2016.10.018,Cognitive Health
+2230,10.3389/fpsyg.2016.00260,Cognitive Health
+2231,10.1186/s12913-016-1834-3,Patient and Public Involvement
+2232,10.1097/ccm.0000000000001950,"Cardiovascular, Translational Physiology"
+2233,10.1111/anae.13601,Translational Physiology
+2234,10.1111/bjd.14908,Immunity and Inflammation
+2235,10.1186/s13073-016-0384-y,Immunity and Inflammation
+2236,10.1016/j.ajhg.2016.09.023,Immunity and Inflammation
+2238,10.12688/wellcomeopenres.9952.1,Immunity and Inflammation
+2239,10.12688/wellcomeopenres.9917.1,Immunity and Inflammation
+2241,10.1002/hep.28819,Immunity and Inflammation
+2242,10.1002/hep.28533,Immunity and Inflammation
+2243,10.1038/gt.2016.54,Surgical Innovation and Evaluation
+2244,10.1167/iovs.16-20230,Surgical Innovation and Evaluation
+2245,10.1038/ncomms13537,Surgical Innovation and Evaluation
+2246,10.1167/tvst.5.6.10,Surgical Innovation and Evaluation
+2247,10.1016/j.ajhg.2016.07.017,Genomic Medicine
+2248,10.18632/oncotarget.12818,Genomic Medicine
+2249,10.1530/jme-16-0124,Genomic Medicine
+2250,10.2337/db16-0628,Genomic Medicine
+2251,10.1038/gim.2016.147,Genomic Medicine
+2252,10.1002/ccr3.663,Genomic Medicine
+2253,10.1038/ng.3676,Genomic Medicine
+2254,10.1016/s1470-2045(16)30172-3,Genomic Medicine
+2255,10.1038/srep36874,Genomic Medicine
+2256,10.1136/jmedgenet-2016-104215,Genomic Medicine
+2257,10.1158/1055-9965.epi-16-0147,Genomic Medicine
+2258,10.1136/jmedgenet-2016-103839,Genomic Medicine
+2259,10.1016/j.rbmo.2016.08.011,Genomic Medicine
+2260,10.1161/circgenetics.116.001431,Genomic Medicine
+2261,10.1177/2055207616671461,"Biomedical Informatics and Technology, Prevention and Population Care"
+2262,10.2196/jmir.6556,Biomedical Informatics and Technology
+2263,10.1080/10428194.2016.1195501,Blood
+2264,10.1038/leu.2016.149,Blood
+2265,10.3324/haematol.2016.155655,Blood
+2266,10.1111/bjh.14221,Blood
+2267,10.1016/j.ccell.2016.10.008,Blood
+2268,10.1016/j.exphem.2016.11.003,Blood
+2269,10.1016/j.cell.2016.10.042,Blood
+2270,10.1093/infdis/jiw452,Blood
+2271,10.1038/ng.3745,Blood
+2272,10.1210/en.2016-1802,Blood
+2273,10.1111/trf.13862,Blood
+2274,10.1097/mcc.0000000000000354,Blood
+2275,10.1186/s12864-016-3134-z,Blood
+2276,10.1016/j.radonc.2016.08.001,Cancer
+2277,10.1016/j.radonc.2016.10.023,Cancer
+2278,10.1080/15384101.2016.1235846,Blood
+2279,10.1158/1078-0432.ccr-16-1562,"Cancer, Surgical Innovation and Evaluation"
+2280,10.1111/bph.13666,Cardiovascular
+2281,10.1093/ehjcvp/pvw034,Cardiovascular
+2282,10.1097/hjh.0000000000001192,Cardiovascular
+2283,10.1016/j.preghy.2016.08.240,Cardiovascular
+2284,10.1016/j.jacc.2016.07.768,Cardiovascular
+2285,10.1097/mca.0000000000000458,Cardiovascular
+2286,10.1016/s0140-6736(16)32052-9,Cardiovascular
+2287,10.1111/liv.13284,Cardiovascular
+2288,10.3171/2016.8.jns16408,Cardiovascular
+2289,10.1038/nrcardio.2016.185,Cardiovascular
+2290,10.1056/nejmoa1610227,"Cardiovascular, Surgical Innovation and Evaluation"
+2291,10.1161/atvbaha.116.308362,Dementia and Cerebrovascular disease
+2292,10.1016/s1474-4422(16)30236-8,Dementia and Cerebrovascular Disease
+2293,10.1212/wnl.0000000000003183,Prevention and Population Care
+2294,10.14814/phy2.12944,Diabetes
+2295,10.1371/journal.pmed.1002179,Diabetes
+2296,10.1001/jama.2016.14568,Diabetes
+2297,10.1038/ncomms13357,Diabetes
+2298,10.1194/jlr.p065250,Diabetes
+2299,10.1038/ng.3643,Diabetes
+2300,10.1097/mot.0000000000000352,Surgical Innovation and Evaluation
+2301,10.1126/scitranslmed.aag1974,Diabetes
+2302,10.7554/elife.19089,Functional Neurosciences and Imaging
+2303,10.1002/mds.26759,Functional Neurosciences and Imaging
+2304,10.1016/j.yebeh.2016.07.026,Functional Neurosciences and Imaging
+2305,10.1136/jnnp-2016-313297,Functional Neurosciences and Imaging
+2306,10.1016/s1473-3099(16)30413-3,Infection
+2307,10.1016/j.cmi.2016.10.014,Infection
+2308,10.1128/aac.01130-16,Infection
+2309,10.1038/nmicrobiol.2016.67,Infection
+2310,10.1128/aac.00464-16,Infection
+2312,10.1093/qjmed/hcx116,Infection
+2313,10.1073/pnas.1520255113,Infection
+2314,10.1111/camh.12205,Patient and Public Involvement
+2315,10.4244/eijv12i10a202,Cardiovascular
+2316,10.1002/ange.201610816,Vaccines
+2317,10.1016/j.vaccine.2016.10.038,Vaccines
+2318,10.1097/inf.0000000000001497,Vaccines
+2319,10.1016/j.jinf.2016.10.006,"Infection, Vaccines"
+2320,10.1016/j.vaccine.2016.10.007,Vaccines
+2321,10.1128/cvi.00430-16,Vaccines
+2322,10.1371/journal.pone.0165384,Vaccines
+2323,10.1038/srep35842,Vaccines
+2324,10.1136/bmjopen-2016-012356,Vaccines
+2325,10.1155/2016/9139537,Vaccines
+2326,10.1016/s0140-6736(15)01091-0,Other BRC Funded Work
+2327,10.1016/j.ijcard.2016.10.024,Cardiovascular
+2328,10.1016/j.celrep.2016.12.054,Blood
+2330,10.1182/blood-2016-10-696005,Blood
+2331,10.1111/bjh.14488,Blood
+2333,10.3324/haematol.2016.152025,Blood
+2335,10.1002/ajh.24617,Blood
+2336,10.1002/14651858.cd011305.pub2,Blood
+2337,10.1002/14651858.cd012545,Blood
+2338,10.1111/bjh.14434,Blood
+2339,10.1371/journal.pmed.1002230,"Prevention and Population Care, Genomic Medicine"
+2340,10.1186/s12885-015-1062-y,Cancer
+2341,10.1093/brain/aww350,Functional Neurosciences and Imaging
+2342,10.1038/bjc.2017.21,Cancer
+2343,10.18632/oncotarget.14910,Cancer
+2344,10.1038/bjc.2017.36,Cancer
+2346,10.1016/j.freeradbiomed.2017.01.012,Cardiovascular
+2347,10.1016/j.jacep.2016.04.009,Cardiovascular
+2349,10.1016/j.jacc.2016.11.068,Cardiovascular
+2352,10.1161/circimaging.116.005207,Cardiovascular
+2355,10.1161/strokeaha.116.014707,Cardiovascular
+2357,10.1186/s12961-016-0163-7,Cardiovascular
+2359,10.1186/s12968-016-0318-2,Cardiovascular
+2360,10.12688/wellcomeopenres.11135.1,Immunity and Inflammation
+2361,10.1186/s12968-017-0327-9,Cardiovascular
+2362,10.1212/wnl.0000000000003765,Cardiovascular
+2363,10.1016/j.joa.2016.05.006,Cardiovascular
+2365,10.1016/j.jacc.2016.11.056,Cardiovascular
+2366,10.1002/acn3.388,Cardiovascular
+2367,10.1136/jnnp-2016-314005,Functional Neurosciences and Imaging
+2368,10.1016/s1473-3099(17)30274-8,Infection
+2369,10.1021/acs.analchem.6b05037,Dementia and Cerebrovascular disease
+2370,10.1093/brain/aww260,Dementia and Cerebrovascular Disease
+2371,10.1002/ana.24840,Dementia and Cerebrovascular Disease
+2372,10.1016/s1474-4422(16)30332-5,Dementia and Cerebrovascular Disease
+2373,10.1093/cercor/bhw340,Functional Neurosciences and Imaging
+2374,10.1093/brain/aww286,Functional Neurosciences and Imaging
+2375,10.1038/srep41603,Functional Neurosciences and Imaging
+2376,10.1016/j.neuroimage.2016.12.072,Functional Neurosciences and Imaging
+2377,10.1136/jnnp-2016-314991,Functional Neurosciences and Imaging
+2378,10.1093/hmg/ddw412,Functional Neurosciences and Imaging
+2379,10.1016/j.neurobiolaging.2016.10.002,Functional Neurosciences and Imaging
+2380,10.1172/jci.insight.92061,Genomic Medicine
+2381,10.1172/jci.insight.91103,Genomic Medicine
+2382,10.1172/jci.insight.91079,Genomic Medicine
+2383,10.1136/annrheumdis-2016-210175,Immunity and Inflammation
+2384,10.12688/f1000research.9828.1,Immunity and Inflammation
+2385,10.1371/journal.pntd.0005263,Immunity and Inflammation
+2386,10.1016/j.immuni.2018.04.028,Immunity and Inflammation
+2387,10.1089/aid.2016.0198,Immunity and Inflammation
+2388,10.1097/qad.0000000000001382,Immunity and Inflammation
+2389,10.1097/qai.0000000000001220,Immunity and Inflammation
+2390,10.1212/wnl.0000000000003491,Immunity and Inflammation
+2391,10.1371/journal.pgen.1006643,Immunity and Inflammation
+2392,10.1016/j.humimm.2017.01.006,Pathology and Bioresources
+2394,10.1093/cid/ciw754,Infection
+2395,10.1128/aac.01823-16,Infection
+2396,10.3389/fmicb.2017.00182,Infection
+2397,10.1128/aac.02169-16,Infection
+2398,10.1093/bioinformatics/btw587,Molecular Diagnostics
+2399,10.1016/j.jpeds.2016.09.059,Diabetes
+2400,10.1016/j.ajhg.2017.01.011,Diabetes
+2401,10.1111/dom.12786,Diabetes
+2402,10.1038/nature21039,Diabetes
+2403,10.1681/asn.2016020231,Diabetes
+2404,10.1097/tp.0000000000001536,Diabetes
+2406,10.1016/j.neuroimage.2016.08.061,Cognitive Health
+2407,10.1002/hbm.23357,Cognitive Health
+2408,10.1016/j.neuroimage.2017.03.031,Cognitive Health
+2410,10.1038/eye.2016.280,Surgical Innovation and Evaluation
+2411,10.1016/j.omtn.2016.12.006,Surgical Innovation and Evaluation
+2412,10.1001/jamaophthalmol.2016.5630,Surgical Innovation and Evaluation
+2413,10.1148/radiol.2016152299,Translational Physiology
+2414,10.1152/japplphysiol.00318.2016,Translational Physiology
+2415,10.1183/13993003.01787-2016,Translational Physiology
+2416,10.7554/elife.21749,"Cardiovascular, Translational Physiology"
+2417,10.12688/f1000research.9701.1,Vaccines
+2419,10.1016/j.vaccine.2016.11.009,Vaccines
+2420,10.1016/j.radonc.2017.01.008,Prevention and Population Care
+2421,10.1186/s12961-017-0177-9,Other BRC Funded Work
