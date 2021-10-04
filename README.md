@@ -1,12 +1,17 @@
 # Index of notebooks for OxBRC2 bibliometric analysis:
 
 
-The enclosed notebooks comprise the analysis for ...
+The enclosed notebooks comprise the analysis for **A large National Institute for Health (NIHR) Biomedical Research Centre
+Facilitates Cross-Disciplinary and Collaborative Research Outputs: A bibliometric analysis** 
+
+*Vasiliki Kiparoglou, Laurence A. Brown, Helen McShane, Keith M. Channon, Syed Ghulam Sarwar Shah* 
 
 The final analysis for the metrics was run on the 27th Jan 2021 (when data was obtained from the respective APIs). Python (Jupyter) notebooks are available describing the entire analysis from the original curated list of publications, through to the lists of DOIs used to generate the author networks. Majority of the analysis can be run from these notebooks, except for a final manual check of the available titles and identifiers. The analyses make use of a number of packages from the PyData ecosystem, including Jupyter, IPython, Pandas, Numpy, Scipy, Holoviz libraries (Bokeh, Hvplot, Holoviews, Panel, Networkx, Requests, FuzzyWuzzy and Habanero for the Crossref API).
 
 the research environment can be created using
 `conda env create -f BRC_biblio.yml`
+
+A snapshot of code and data used (including all intermediate files and network files) can be found at Zenodo.org (<a href='https://dx.doi.org/10.5281/zenodo.5211298'>https://dx.doi.org/10.5281/zenodo.5211298 </a>).
 
 <img src='./notebooks_summary.png'></img>
 
